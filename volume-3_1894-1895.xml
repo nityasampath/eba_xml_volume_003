@@ -6,7 +6,9 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
     <text>
         <body> 
             <pb n="1"/>
-            Gibraltar. Nov. 19th. 1894. Monday. We arrived this morning – dropping our anchor
+            <div xml:id="EBA18941119" type=Entry>
+            <p><title>Gibraltar. Nov. 19th. 1894. Monday. </title></p>
+            <p>We arrived this morning – dropping our anchor
             about 12 o’-clock – having sailed from New York on the Fulda at 3 o’clock on the
             afternoon of the 10th. For the first time on the Atlantic I was really ill – and for two
             days kept to my berth and room – the voyage seemed endless. We had pleasant weather, but
@@ -19,18 +21,24 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             class deck, which was big and unencumbered, except with 3 of the most amusing parrots it
             has ever been my good fortune to meet. There were no second class passengers – so we had
             our chairs carried down there, and lived there the rest of the voyage, quite to
-            ourselves. We came to the Hotel Royal where we stayed with Charlie and Nellie Wilson
+            ourselves. We came to the Hotel Royal where we stayed with <persName ref="#Wilson">Charlie</persName> and <persName ref="Wilson_Eleanor"> Nellie Wilson</persName>
             seven years ago – and are fairly comfortable. We start tomorrow on a pilgrimage to
-            Madrid, to see its great pictures – and Theodore has asked a young man, a fellow
+            Madrid, to see its great pictures – and <persName ref="#Davis_Theodore">Theodore</persName> has asked a young man, a fellow
             passenger, whom he has talked to a good deal and become interested in, to go with us. We
             drove out to see some races this afternoon, as we will have one or two days here on our
-            way back, to show Nettie the island. Madrid. Spain. Nov. 26. We left Gibraltar on the
+            way back, to show <persName ref="Buttles_Jeanette">Nettie</persName> the island.</p>
+            </div>
+            
+            <pb n="2"/>
+            <div xml:id="EBA18941126" type="Entry">
+            <p><title>Madrid. Spain. Nov. 26.</title></p>
+            <p> We left Gibraltar on the
             morning of the 20th at 8 o’clock – going by boat for half and hour to the Spanish
-            frontier – where we were rather roughly handled in the Custom House. Theodore lost a lot
+            frontier – where we were rather roughly handled in the Custom House. <persName ref="#Davis_Theodore">Theodore</persName> lost a lot
             of cigarettes – and the only thing that saved his boxes of favorite cigars was the word
             Spain branded on the boxes. They dove to the bottom of my trunk and hauled out my case
             of homeopathic medicines – and had a solemn pow-wow over it. Then they seized my camera
-            that Jones was carrying – insisted on having the case opened, and were too much afraid
+            that <persName ref="Jones_Daniel">Jones</persName> was carrying – insisted on having the case opened, and were too much afraid
             of taking out the camera themselves. I took it out – took off the cap and pointed the
             thing at them – to their manifest alarm – for they hurriedly motioned to put it back
             safely in its case. Then they fell upon a stout little basket I was carrying, filled
@@ -43,7 +51,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             through generally dreary, vast, waste country, except for the olive orchards. We were
             almost an hour late, and our train from Seville, in the wagon lit of which we had 2
             compartments engaged, was already in. However we had more than 15 minutes, so our
-            luggage was scuttled into the booking office, where to our consternation we were told
+            luggage was scuttled into the booking office, where to our consternation <pb n="3"> we were told
             that they never booked luggage so late. Nothing would move them, and we stood staring
             indignantly at our train, until it moved off for Madrid. We said some bad words and
             commented satirically on the method of running railways in Spain, where passengers seem
@@ -59,12 +67,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             altars which intrude themselves everywhere will never be done away with. One exquisitely
             beautiful portion, called the place of the Kalefs has been entirely opened up since we
             were here last – and the decorations and colour are quite perfect, and the tiles quite
-            marvelous. We left at 2:30 in the afternoon for Madrid – Theodore, Nettie and I having
+            marvelous. We left at 2:30 in the afternoon for Madrid – <persName ref="#Davis_Theodore">Theodore</persName>, <persName ref="Buttles_Jeanette">Nettie</persName> and I having
             what is called a Berlina, where were 3 beds on reclining chairs – while Mr. Palsley and
-            Jones were in another. We were fairly comfortable – though the ancient smell that
+            <persName ref="Jones_Daniel">Jones</persName> were in another. We were fairly comfortable – though the ancient smell that
             pervaded the cavities from which our coffin-like beds were pulled rather weighed upon my
-            senses. At last, sleeping very soundly, I was awakened by a rush of cold air, and saw
-            Theodore and Nettie sitting up staring at some porters who were jabbering Spanish to us,
+            senses. At last, sleeping very soundly, I was awakened by <pb n="4"> a rush of cold air, and saw
+            <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="Buttles_Jeanette">Nettie</persName> sitting up staring at some porters who were jabbering Spanish to us,
             and we at last perceived that we had arrived at Madrid, so we scuttled into our things
             as best we could – and in the cold light of early dawn drove to our hotel, I with boots
             unbuttoned and no gloves, and our pockets stuffed with soap dishes, tooth brushes etc.
@@ -81,13 +89,16 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             and I not feeling very well sat by the fire and wrote letters. The next day the rest
             went to the Escorial – Theodore and I spent 3 hours at the Gallery – and yesterday being
             Sunday, we all went to the gallery in the morning. Nettie and I to drive in the
-            afternoon – the rest to a bull fight! We found the royal park distinctly depressing –
+            afternoon – <pb n="5"> the rest to a bull fight! We found the royal park distinctly depressing –
             limited, badly cared for, wretchedly planted – afterwards we drove to the great park –
             but were so cold and tired we could not enjoy anything and came home wondering at the
             crowds of people in the Park, and in the streets, and if anywhere in the big city of
             Madrid there could be anybody left in a house. We got off at 6 tonight for Seville.
-            Jones is packing – and we take our last afternoon at the gallery. Granada. Nov. 29. We
-            had a most uncomfortable ride to Seville the other night – arriving about 10 in the
+            Jones is packing – and we take our last afternoon at the gallery. </p>
+            </div>
+            
+            Granada. Nov. 29. 
+            We had a most uncomfortable ride to Seville the other night – arriving about 10 in the
             morning. Went to the Hotel de Madrid, and were shown to the very rooms we occupied 7
             years ago, with Charlie and Nellie. After breakfast went to the Cathedral, where we were
             not allowed to put our heads in hardly – as the whole great structure was filled with
@@ -104,8 +115,10 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             pleasant English people. The former name Biete Suelos, which it carried when we were
             here before, has been changed into Hotel de Roma – it is much the same thing however –
             with a little freshening in the way of paint and paper – but far from luxurious – the
-            table the best thing about it. Our rooms are small and dark and not cheerful. Cairo.
-            Shepheards Hotel. Dec. 21st. It seems a great stretch of time since I last wrote
+            table the best thing about it. Our rooms are small and dark and not cheerful. 
+            
+            Cairo. Shepheards Hotel. Dec. 21st. 
+            It seems a great stretch of time since I last wrote
             anything, and the days have been inexpressibly long and tiresome. The cold that I began
             to take in the chill Madrid gallery grew worse and worse, and I am still in its
             clutches. We stayed three days at Granada – and it rained more or less all the time – it
@@ -191,8 +204,10 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             weather”. My room is really huge – with two lofty French windows – two single lace
             canopied beds –with their very necessary mosquito nets, two enormous wardrobes – equally
             large bureau, dressing table, washstand, lounge and square table in the middle of the
-            room, even with four trunks in it, it remains spacious. Wednesday, Dec. 26 We came on
-            board the Herodotus on the 23d Sunday morning – a strong south wind had been blowing for
+            room, even with four trunks in it, it remains spacious. 
+            
+            Wednesday, Dec. 26 
+            We came on board the Herodotus on the 23d Sunday morning – a strong south wind had been blowing for
             days – but everything had been ready for us for some time. I was tired of the hotel and
             we hope the south wind would soon be discouraged. But on Monday it holding as strong as
             ever, we pulled about half a mile away along the bank – and the next day Xmas, we pulled
@@ -215,11 +230,15 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             brought for them. Our old Captain gabbles as fast as ever – most of our old men are with
             us again – and being without dragoman we are going to be brought in pleasanter and
             closer relations to them – we all like the feeling I think, of being without a boss.
-            Sunday after Christmas. Dec. 30 The south wind has held the whole week – and I have felt
+            
+            Sunday after Christmas. Dec. 30 
+            The south wind has held the whole week – and I have felt
             most impatient – Theodore and Jones go into Cairo every day – there is always some last
             thing to be bought. We left our landing this afternoon and pulled along a little way
-            opposite the town of Ghizeh – why I do not know. Tuesday. Jan. 1. 1895 The wind came out
-            light from the north yesterday morning, and we got away at last under sail. It grew
+            opposite the town of Ghizeh – why I do not know. 
+            
+            Tuesday. Jan. 1. 1895 
+            The wind came out light from the north yesterday morning, and we got away at last under sail. It grew
             quite strong during the day, and we sailed through the night until about 6 o’clock this
             morning – I heard the men all through the night – and about one o’clock we stuck on a
             sand bank – I then got up lighted a candle, and let it burn itself out, and finally went
@@ -227,16 +246,22 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             from the south – however by tracking and polling we made one mile today. I have been up
             on deck two or three times – finding the sun and air delicious – we have 3 big basket
             hooded chairs, all lined and trimmed – that proved to be delightful things and serve
-            equally well as a protection against sun and wind. Wednesday. Jan. 2. Tracked and polled
-            against the wind until we reached Wasta – 56 miles from Cairo. The pyramid of Meydoum
-            has been before us for 2 days - quite splendid – made 4 to 5 miles. Friday. Jan. 4. We
-            have tracked and pulled to an anchor, and polled for 2 days, and have had our sail out
+            equally well as a protection against sun and wind. 
+            
+            Wednesday. Jan. 2. 
+            Tracked and polled against the wind until we reached Wasta – 56 miles from Cairo. The pyramid of Meydoum
+            has been before us for 2 days - quite splendid – made 4 to 5 miles. 
+            
+            Friday. Jan. 4. 
+            We have tracked and pulled to an anchor, and polled for 2 days, and have had our sail out
             at times, and have thus made about 10 miles in 2 days – cold and not quite clear. Have
             only been on deck a few moments today. The night are now so perfect with the young moon,
             and these magnificent heavens – the stars so near and big and bright – it is entrancing
             – we pulled up at a wide low sand bank for the night – and it was really a hardship to
             have to stay indoors when there was such a mystical beauty and loveliness without.
-            Saturday. Jan. 5. Nettie and I have just had a discussion as to whether this was or was
+            
+            Saturday. Jan. 5. 
+            Nettie and I have just had a discussion as to whether this was or was
             not Saturday. It gives on such a strange, lost feeling to be uncertain as to the days,
             with no immediate authority to appeal to. We have had rather a cold day – with fitful
             winds – we have done a good deal of slow sailing - have passed Benisoef - and are now at
@@ -250,22 +275,39 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             – then the sailor appeared with is well laden basket on his head; and as the wind blew
             strongly, a sailor was sent off in haste to look for Jones – Hasan to find Theodore –
             and Mohammed flew towards the town to find Moussa – and at last they all were hauled in
-            and were off. The night is magically lovely. Sunday. Epiphany. Jan. 6. Had about half an
-            hour of good wind early this morning – then a dead calm for the rest of the day – the
+            and were off. The night is magically lovely. 
+            
+            Sunday. Epiphany. Jan. 6. 
+            Had about half an hour of good wind early this morning – then a dead calm for the rest of the day – the
             water reflecting everything like a mirror. The men tracked and made about 2 miles – then
-            at one we tied up – where we will stay all night. Monday. Jan 7. A dead calm with the
-            exception of a few moments of fair wind this morning – made 4 miles by tracking – and
+            at one we tied up – where we will stay all night. 
+            
+            Monday. Jan 7. 
+            A dead calm with the exception of a few moments of fair wind this morning – made 4 miles by tracking – and
             are now lying at Fashen. Theodore and Nettie walked into the town and posted some
-            letters. Tuesday. Jan. 8. Occasional light winds and with polling and tracking made
-            about 12 miles. Passed Haghagah. Wednesday. Jan. 9. Good head wind until 11 o’clock am -
+            letters. 
+            
+            Tuesday. Jan. 8. 
+            Occasional light winds and with polling and tracking made about 12 miles. Passed Haghagah. 
+            
+            Wednesday. Jan. 9. 
+            Good head wind until 11 o’clock am -
             the middle of the day very still and hot – light wind later – sailed until 8pm and made
-            18 miles. Stella near us for 4 days. Thursday. Jan. 10. It was very hot and calm this
+            18 miles. Stella near us for 4 days. 
+            
+            
+            Thursday. Jan. 10. 
+            It was very hot and calm this
             morning- under a light south wind we have made in the afternoon 2 miles – about 6 we
             tied up for the night, both awnings were spread – and every one settled down to stay for
             the night – but about 9, as Theodore and I had finished our game of cribbage, a strong
             north wind began. The Captain waited awhile to see if it had come to stay – then the
             awnings went down, and the stake came up, and we have been bounding along ever since – I
-            do not think it will be a good night to sleep. Friday. Jan. 11. It wasn’t a good night
+            do not think it will be a good night to sleep. 
+            
+            
+            Friday. Jan. 11. 
+            It wasn’t a good night
             to sleep – what with the shifting of the sails, the orders – the running backwards and
             forwards on the deck above me, it was quite impossible – at 1 o’clock, I got up, lighted
             my candle and prowled into the saloon, and found some biscuit and a glass of port wine.
