@@ -51,7 +51,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             through generally dreary, vast, waste country, except for the olive orchards. We were
             almost an hour late, and our train from Seville, in the wagon lit of which we had 2
             compartments engaged, was already in. However we had more than 15 minutes, so our
-            luggage was scuttled into the booking office, where to our consternation <pb n="3"> we were told
+            luggage was scuttled into the booking office, where to our consternation <pb n="3"/> we were told
             that they never booked luggage so late. Nothing would move them, and we stood staring
             indignantly at our train, until it moved off for Madrid. We said some bad words and
             commented satirically on the method of running railways in Spain, where passengers seem
@@ -71,7 +71,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             what is called a Berlina, where were 3 beds on reclining chairs – while Mr. Palsley and
             <persName ref="Jones_Daniel">Jones</persName> were in another. We were fairly comfortable – though the ancient smell that
             pervaded the cavities from which our coffin-like beds were pulled rather weighed upon my
-            senses. At last, sleeping very soundly, I was awakened by <pb n="4"> a rush of cold air, and saw
+            senses. At last, sleeping very soundly, I was awakened by <pb n="4"/> a rush of cold air, and saw
             <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="Buttles_Jeanette">Nettie</persName> sitting up staring at some porters who were jabbering Spanish to us,
             and we at last perceived that we had arrived at Madrid, so we scuttled into our things
             as best we could – and in the cold light of early dawn drove to our hotel, I with boots
@@ -89,7 +89,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             and I not feeling very well sat by the fire and wrote letters. The next day the rest
             went to the Escorial – Theodore and I spent 3 hours at the Gallery – and yesterday being
             Sunday, we all went to the gallery in the morning. Nettie and I to drive in the
-            afternoon – <pb n="5"> the rest to a bull fight! We found the royal park distinctly depressing –
+            afternoon – <pb n="5"/> the rest to a bull fight! We found the royal park distinctly depressing –
             limited, badly cared for, wretchedly planted – afterwards we drove to the great park –
             but were so cold and tired we could not enjoy anything and came home wondering at the
             crowds of people in the Park, and in the streets, and if anywhere in the big city of
@@ -97,8 +97,9 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             Jones is packing – and we take our last afternoon at the gallery. </p>
             </div>
             
-            Granada. Nov. 29. 
-            We had a most uncomfortable ride to Seville the other night – arriving about 10 in the
+            <div xml:id="EBA18941129" type="Entry">
+            <p><title>Granada. Nov. 29. </title></p>
+            <p>We had a most uncomfortable ride to Seville the other night – arriving about 10 in the
             morning. Went to the Hotel de Madrid, and were shown to the very rooms we occupied 7
             years ago, with Charlie and Nellie. After breakfast went to the Cathedral, where we were
             not allowed to put our heads in hardly – as the whole great structure was filled with
@@ -109,16 +110,18 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             hospital, and then to the Aleazar, and a last peep into the Cathedral in the gloom of
             the evening, brought us back to the hotel in time for tea – and we lamented, at least
             Theodore and I, that time and money had been wasted in Seville. A start the next morning
-            at 10, and a long railway ride to Granada which we reached at 8:30 in the evening, very
+            at 10, and a long railway ride to Granada which we reached at 8:30 in the evening, <pb n="6"/> very
             tired and a long ride up to this hotel in the Alhambra grounds. Today it has rained. I
             have stayed in doors. The hotel is almost empty – a stray American or two – and 2
             pleasant English people. The former name Biete Suelos, which it carried when we were
             here before, has been changed into Hotel de Roma – it is much the same thing however –
             with a little freshening in the way of paint and paper – but far from luxurious – the
-            table the best thing about it. Our rooms are small and dark and not cheerful. 
+            table the best thing about it. Our rooms are small and dark and not cheerful. </p>
+            </div>
             
-            Cairo. Shepheards Hotel. Dec. 21st. 
-            It seems a great stretch of time since I last wrote
+            <div xml:id="EBA18941221" type="Entry">
+            <p><title>Cairo. Shepheards Hotel. Dec. 21st. </title></p>
+            <p>It seems a great stretch of time since I last wrote
             anything, and the days have been inexpressibly long and tiresome. The cold that I began
             to take in the chill Madrid gallery grew worse and worse, and I am still in its
             clutches. We stayed three days at Granada – and it rained more or less all the time – it
@@ -129,7 +132,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             o’clock train, which made it necessary to be called at a quarter to 4, in order to
             dress, breakfast, and drive the long distance to the station. Theodore and Mr. Lapsley
             breakfasted down stairs – but Nettie and I took our wretched little meal of bad coffee,
-            bad eggs and butter in our melancholy sitting room by the light of the lamp. It seemed
+            bad eggs and butter in our melancholy sitting <pb n="7"/> room by the light of the lamp. It seemed
             quite in the middle of the night when we got into the omnibus and there was an air of
             flight or secret adventure in it. We had some time to wait in the draughty station – and
             then Nettie and I had a Berlina to ourselves, in consideration of my ailing throat, and
@@ -204,10 +207,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             weather”. My room is really huge – with two lofty French windows – two single lace
             canopied beds –with their very necessary mosquito nets, two enormous wardrobes – equally
             large bureau, dressing table, washstand, lounge and square table in the middle of the
-            room, even with four trunks in it, it remains spacious. 
+            room, even with four trunks in it, it remains spacious. </p>
+            </div>
             
-            Wednesday, Dec. 26 
-            We came on board the Herodotus on the 23d Sunday morning – a strong south wind had been blowing for
+            <div xml:id="EBA18941226" type="Entry">
+            <p><title>Wednesday, Dec. 26 </title></p>
+            <p>We came on board the Herodotus on the 23d Sunday morning – a strong south wind had been blowing for
             days – but everything had been ready for us for some time. I was tired of the hotel and
             we hope the south wind would soon be discouraged. But on Monday it holding as strong as
             ever, we pulled about half a mile away along the bank – and the next day Xmas, we pulled
@@ -229,16 +234,20 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             waffles sent in to us. We had a quiet little Xmas – giving the men the present we had
             brought for them. Our old Captain gabbles as fast as ever – most of our old men are with
             us again – and being without dragoman we are going to be brought in pleasanter and
-            closer relations to them – we all like the feeling I think, of being without a boss.
+            closer relations to them – we all like the feeling I think, of being without a boss.</p>
+            </div>
             
-            Sunday after Christmas. Dec. 30 
-            The south wind has held the whole week – and I have felt
+            <div xml:id="EBA18941230" type="Entry">
+            <p><title>Sunday after Christmas. Dec. 30 </title></p>
+            <p>The south wind has held the whole week – and I have felt
             most impatient – Theodore and Jones go into Cairo every day – there is always some last
             thing to be bought. We left our landing this afternoon and pulled along a little way
-            opposite the town of Ghizeh – why I do not know. 
+            opposite the town of Ghizeh – why I do not know. </p>
+            </div>
             
-            Tuesday. Jan. 1. 1895 
-            The wind came out light from the north yesterday morning, and we got away at last under sail. It grew
+            <div xml:id="EBA18950101" type="Entry">
+            <p><title>Tuesday. Jan. 1. 1895 </title></p>
+            <p>The wind came out light from the north yesterday morning, and we got away at last under sail. It grew
             quite strong during the day, and we sailed through the night until about 6 o’clock this
             morning – I heard the men all through the night – and about one o’clock we stuck on a
             sand bank – I then got up lighted a candle, and let it burn itself out, and finally went
@@ -246,22 +255,28 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             from the south – however by tracking and polling we made one mile today. I have been up
             on deck two or three times – finding the sun and air delicious – we have 3 big basket
             hooded chairs, all lined and trimmed – that proved to be delightful things and serve
-            equally well as a protection against sun and wind. 
+            equally well as a protection against sun and wind. </p>
+            </div>
             
-            Wednesday. Jan. 2. 
-            Tracked and polled against the wind until we reached Wasta – 56 miles from Cairo. The pyramid of Meydoum
-            has been before us for 2 days - quite splendid – made 4 to 5 miles. 
+            <div xml:id="EBA18950102" type="Entry">
+            <p><title>Wednesday. Jan. 2. </title></p>
+            <p>Tracked and polled against the wind until we reached Wasta – 56 miles from Cairo. The pyramid of Meydoum
+            has been before us for 2 days - quite splendid – made 4 to 5 miles. </p>
+            </div>
             
-            Friday. Jan. 4. 
-            We have tracked and pulled to an anchor, and polled for 2 days, and have had our sail out
+            <div xml:id="EBA18950104" type="Entry">
+            <p><title>Friday. Jan. 4. </title></p>
+            <p>We have tracked and pulled to an anchor, and polled for 2 days, and have had our sail out
             at times, and have thus made about 10 miles in 2 days – cold and not quite clear. Have
             only been on deck a few moments today. The night are now so perfect with the young moon,
             and these magnificent heavens – the stars so near and big and bright – it is entrancing
             – we pulled up at a wide low sand bank for the night – and it was really a hardship to
-            have to stay indoors when there was such a mystical beauty and loveliness without.
+            have to stay indoors when there was such a mystical beauty and loveliness without.</p>
+            </div>
             
-            Saturday. Jan. 5. 
-            Nettie and I have just had a discussion as to whether this was or was
+            <div xml:id="EBA18950105" type="Entry">
+            <p><title>Saturday. Jan. 5. </title></p>
+            <p>Nettie and I have just had a discussion as to whether this was or was
             not Saturday. It gives on such a strange, lost feeling to be uncertain as to the days,
             with no immediate authority to appeal to. We have had rather a cold day – with fitful
             winds – we have done a good deal of slow sailing - have passed Benisoef - and are now at
@@ -275,40 +290,49 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             – then the sailor appeared with is well laden basket on his head; and as the wind blew
             strongly, a sailor was sent off in haste to look for Jones – Hasan to find Theodore –
             and Mohammed flew towards the town to find Moussa – and at last they all were hauled in
-            and were off. The night is magically lovely. 
+            and were off. The night is magically lovely. </p>
+            </div>
             
-            Sunday. Epiphany. Jan. 6. 
-            Had about half an hour of good wind early this morning – then a dead calm for the rest of the day – the
+            <div xml:id="EBA18950106" type="Entry">
+            <p><title>Sunday. Epiphany. Jan. 6. </title></p>
+            <p>Had about half an hour of good wind early this morning – then a dead calm for the rest of the day – the
             water reflecting everything like a mirror. The men tracked and made about 2 miles – then
-            at one we tied up – where we will stay all night. 
+            at one we tied up – where we will stay all night. </p>
+            </div>
             
-            Monday. Jan 7. 
-            A dead calm with the exception of a few moments of fair wind this morning – made 4 miles by tracking – and
+            <div xml:id="EBA18950107" type="Entry">
+            <p><title>Monday. Jan 7. </title></p>
+            <p>A dead calm with the exception of a few moments of fair wind this morning – made 4 miles by tracking – and
             are now lying at Fashen. Theodore and Nettie walked into the town and posted some
-            letters. 
+            letters. </p>
+            </div>
             
-            Tuesday. Jan. 8. 
-            Occasional light winds and with polling and tracking made about 12 miles. Passed Haghagah. 
+            <div xml:id="EBA18950108" type="Entry">
+            <p><title>Tuesday. Jan. 8. </title></p>
+            <p>Occasional light winds and with polling and tracking made about 12 miles. Passed Haghagah. </p>
+            </div>
             
-            Wednesday. Jan. 9. 
-            Good head wind until 11 o’clock am -
+            <div xml:id="EBA18950109" type="Entry">
+            <p><title>Wednesday. Jan. 9. </title></p>
+            <p>Good head wind until 11 o’clock am -
             the middle of the day very still and hot – light wind later – sailed until 8pm and made
-            18 miles. Stella near us for 4 days. 
+            18 miles. Stella near us for 4 days. </p>
+            </div>
             
-            
-            Thursday. Jan. 10. 
-            It was very hot and calm this
+            <div xml:id="EBA18950101" type="Entry">
+            <p><title>Thursday. Jan. 10. </title></p>
+            <p>It was very hot and calm this
             morning- under a light south wind we have made in the afternoon 2 miles – about 6 we
             tied up for the night, both awnings were spread – and every one settled down to stay for
             the night – but about 9, as Theodore and I had finished our game of cribbage, a strong
             north wind began. The Captain waited awhile to see if it had come to stay – then the
             awnings went down, and the stake came up, and we have been bounding along ever since – I
-            do not think it will be a good night to sleep. 
+            do not think it will be a good night to sleep. </p>
+            </div>
             
-            
-            Friday. Jan. 11. 
-            It wasn’t a good night
-            to sleep – what with the shifting of the sails, the orders – the running backwards and
+            <div xml:id="EBA18950111" type="Entry">
+            <p><title>Friday. Jan. 11. </title></p>
+            <p>It wasn’t a good night to sleep – what with the shifting of the sails, the orders – the running backwards and
             forwards on the deck above me, it was quite impossible – at 1 o’clock, I got up, lighted
             my candle and prowled into the saloon, and found some biscuit and a glass of port wine.
             We reached Minyeh at 2 o’clock. On our first journey up the Nile we reached Minyeh the
@@ -329,10 +353,19 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             – and gave him a little money to pay for any damage we might have caused. They never
             protest against the “Howadji” in a dahabeah – and indeed the greatest damage is done by
             the troops of people who as soon as they see a dahabeah approach the land, leave all,
-            and come to stare. Saturday. Jan. 12. We have made 2 or 3 miles – the day has been warm
+            and come to stare. </p>
+            </div>
+            
+        	<div xml:id="EBA18950112" type="Entry">
+            <p><title>Saturday. Jan. 12. </title></p>
+            <p>We have made 2 or 3 miles – the day has been warm
             and still. On deck from 11 o’clock until 5 – such fragrant delicious air and such
-            effects. The moon is so full – and the nights lately have had a wonderful beauty. Jan.
-            13th. Sunday – first after Epiphany. A fair wind most of the day brought us about 8
+            effects. The moon is so full – and the nights lately have had a wonderful beauty. </p>
+            </div>
+            
+            <div xml:id="EBA18950113" type="Entry">
+            <p><title>Jan. 13th. Sunday – first after Epiphany. </title></p>
+            <p>A fair wind most of the day brought us about 8
             o’clock this evening within two miles of Manfalout and we have calculated that we have
             made about 24 1/2 miles today. I have been on deck since 11 o’clock – that is until 5
             o’clock – at which I came below – before the first chill of the evening comes. Theodore
@@ -362,7 +395,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             pleasure consists in popping their guns at every thing – and I am daily so annoyed at
             the hateful creatures, murdering the delicious peace of the river, and trying to kill
             the few characteristic and interesting birds, that still have the courage to live on the
-            Nile – that highway of tourists. Monday. Jan. 14. We are now lying at Assiout having
+            Nile – that highway of tourists. </p>
+            </div>
+            
+            <div xml:id="EBA18950114" type="Entry">
+            <p><title>Monday. Jan. 14. </title></p>
+            <p>We are now lying at Assiout having
             made 28 miles. I was on deck much of the day. Sometime before noon, we saw as usual the
             minaret of Assiout – but as usual were a long time reaching the town – the river makes
             such great bends below – that the distance is deluding. The wind grew very strong in the
@@ -382,7 +420,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             either shore – the sunny windows – all the space to myself – for Theodore and Nettie are
             always on deck – and I have dozens of pleasant things to do – we are still (10 P.M.)
             sailing – and Jones has just been in reporting that we are within 4 or 5 miles of
-            Tahtah. Jan. 16. Wednesday. We pulled up to Girgeh this evening about 7 o’clock – after
+            Tahtah. </p>
+            </div>
+            
+            <div xml:id="EBA18950116" type="Entry">
+            <p><title>Jan. 16. Wednesday. </title></p>
+            <p>We pulled up to Girgeh this evening about 7 o’clock – after
             an uninterrupted sail from Asiout yesterday morning. All night long we bowled along
             steadily – and I dreamily wondered as I have wakened through the night, how weary the
             Reis and all the crew must be. The wind, grew very rough toward morning, and about 5:30
@@ -398,7 +441,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             limestone – and shadows wonderfully blue. We have been going through much lovely country
             – palms – dom palms – scents and sycamores in richest profusion – and the country highly
             cultivated – it is one of the very richest provinces of Egypt. I have had to be down
-            stairs all day, because of the wind. Girgeh – Jan. 17. Thursday – we have been lying
+            stairs all day, because of the wind. </p>
+            </div>
+            
+            <div xml:id="EBA18950117" type="Entry">
+            <p><title>Girgeh – Jan. 17.  </title></p>
+           	<p>Thursday - We have been lying
             here all day at the big low sand bank where we lay two years ago, opposite the town. We
             are here to have the sailors’ bread baked – some people will not stop here – it is a
             dirty, uninteresting town – but the captains all prefer it to Balliana or Akmim, where
@@ -416,7 +464,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             daily readings in Kidds Social Evolution. For the first time a few nights ago, we saw
             the Zodiacal light – and since then it has been seen several times – we were a little
             nebulous about the affair – and got out our Astronomy – and read about the little that
-            is known of it. Friday. Jan. 18th. We left Girgeh about 12 o’clock – having taken on a
+            is known of it. </p>
+            </div>
+            
+            <div xml:id="EBA18950118" type="Entry">
+            <p><title>Friday. Jan. 18th. </title></p>
+            <p>We left Girgeh about 12 o’clock – having taken on a
             great stock of bread – enough to last until we reach Girgeh again, the Reis says – made
             Balliana about 7 o’clock – and the wind having been very light all day – two dahabeahs –
             the “Mimi” English – and the “Columbia” with the American flag. The former is a new
@@ -428,11 +481,20 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             said about it. This afternoon just as we had landed the men for tracking, I saw them
             looking at something in the water floating by us, and Nettie and I took up our glasses
             to see what it was – and to our horror discovered it was the body of a woman. It was a
-            dreadfully gruesome spectacle! Saturday. Jan. 19th. Got away from Balliana early –
+            dreadfully gruesome spectacle! </p>
+            </div>
+            
+            <div xml:id="EBA18950119" type="Entry">
+            <p><title>Saturday. Jan. 19th. </title></p>
+            <p>Got away from Balliana early –
             deciding that as the day was so hot, we would not attempt the long ride out to Abydos.
             Columbia near us all day. Stayed on deck most of the time. Are lying about half way
-            between Balliana and Farshoot, having made 8-10 miles. 2d Sunday after Epiphany. Jan.
-            20. We are lying tonight at Dishneh, where we pulled up for the night in a strong and
+            between Balliana and Farshoot, having made 8-10 miles. </p>
+            </div>
+            
+            <div xml:id="EBA18950120" type="Entry">
+            <p><title>2d Sunday after Epiphany. Jan. 20. </title></p>
+            <p>We are lying tonight at Dishneh, where we pulled up for the night in a strong and
             fitful wind – having made about 29 miles. Have passed Farshoot – Hou – and Kar el-Sayd.
             The river makes great bends between Girgeh and Keneh – and its direction is almost
             directly E and W. This morning instead of having the sun in my room while I was dressing
@@ -449,16 +511,32 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             they waited until we were quite up to them, then spread their wings, and sailed away on
             the water. Fortunately Theodore and Jones were both below, or the gun would have been
             out. The Mimi has been ahead of us all day – but this afternoon we came up to her
-            hopelessly stuck upon a sand bank – and there we left her. But she can much outsail us.
-            Monday. Jan. 21. Started out this morning at 7:30 with a good wind – which held until
+            hopelessly stuck upon a sand bank – and there we left her. But she can much outsail us.</p>
+            </div>
+            
+            <div xml:id="EBA18950121" type="Entry">
+            <p><title>Monday. Jan. 21. </title></p>
+            <p>Started out this morning at 7:30 with a good wind – which held until
             about 11 – when it failed so much that as we drew near Keneh, we debated whether or not
             we would go ashore and find our antiquity dealer of whom Theodore bought two or three
             very good things last year. But we decided not to stop – and the wind increasing we made
             the turn below Keneh in fine style, the river her turning quite sharply to the South
             once more. We careered along in a beautiful manner – the wind so high as to make the
             sailing exciting – and almost dangerous. I stayed below. We passed Coptos – then Kus –
-            and about 5 Nagada – and are now about 6 miles from Luxor. Tuesday. Jan. 31. A very
-            quiet and uneventful week at Luxor. I tried to ride over to Karnak the first afternoon –
+            and about 5 Nagada – and are now about 6 miles from Luxor. </p>
+            </div>
+            
+            <div xml:id="EBA18950122" type="Entry">
+            <p><title>Tuesday. Jan. 22</title></p>
+            <p>We could not make our paltry 6 miles to Luxor until about 6 o'clock this evening - though we were 
+            trying all day to do it. We pulled up to the gezirah opposite the town - and began settling ourselves 
+            in very nearly our old quarters. It was lovely this hot calm day - the mountains opposite Luxor taking 
+            such soft pink and heliotrope tints.</p>
+            </div>
+            
+            <div xml:id="EBA18950120" type="Entry">
+            <p><title>Thursday. Jan. 31. </title></p>
+            <p>A very quiet and uneventful week at Luxor. I tried to ride over to Karnak the first afternoon –
             and spent the morning of the 2d day in Luxor, principally at Mohammed Mohasib’s – and in
             the afternoon went over to the races – and between them all, grew so tired and added so
             much to my cold – that I have stayed on the boat every day since – except Sunday – when
@@ -542,25 +620,43 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             able bodied man, headed by the Reis, made off to the Reis, made off to the fray, leaving
             the beat, and we two unprotected women to the care of the 2 cooks! It hardly answers to
             our idea of discipline on a ship! We came to Erment and will stay all night – making 9
-            miles. Friday. Feb. 1st. We have had a very good day – making 40 miles – passed Esneh
+            miles. </p>
+            </div>
+            
+            <div xml:id="EBA18950201" type="Entry">
+            <p><title>Friday. Feb. 1st. </title></p>
+            <p>We have had a very good day – making 40 miles – passed Esneh
             about 5 o’clock. The Columbia which has been quite in advance of us from Luxor, landed
             at Esneh, and the Mansourah, which passed us yesterday during the fracas, still holds
             her own, ahead of us. We met her people in the garden at Erment, where everybody goes to
-            buy fruit and vegetables. We are lying 2 or 3 miles from El Kab this evening. Saturday.
-            Feb. 2d. A splendid run of today – 60 miles – steady, fine sailing all the time. Pased
+            buy fruit and vegetables. We are lying 2 or 3 miles from El Kab this evening. </p>
+            </div>
+            
+            <div xml:id="EBA18950202" type="Entry">
+            <p><title>Saturday. Feb. 2d. </title></p>
+            <p>A splendid run of today – 60 miles – steady, fine sailing all the time. Pased
             El Kab – Edfou – Silsilis just at sunset – so that we were able to see the grottos as we
             sailed by – such an interesting point of the river – the rocks coming down to the
             narrowed river – the either side. We have been steadily gaining on the Mansourah all day
             – until the race became very exciting as we draw near Kom Ombo – by a clever move, our
             old Reis cleverly took advantage of a manouvre on their part, and passed them, and soon
             we lost sight of them in the night. The moon is now radiant. We have passed Kom Ombo,
-            and are lying about 3 miles above. Sunday. Feb. 2. Assouan. We dragged through the whole
+            and are lying about 3 miles above. </p>
+            </div>
+            
+            <div xml:id="EBA18950203" type="Entry">
+            <p><title>Sunday. Feb. 3. Assouan. </title></p>
+            <p>We dragged through the whole
             day, arriving at Assouan when it was almost too dark to see that beautiful approach, a
             number of dahabeahs here – we are a little in advance of our former position at
             Elephantine. The Isis is just opposite – and Theodore and Nettie have gone over to her,
             to see if her people are going up in their steamer to Wady Halfa, as they expected to do
-            tomorrow, when we saw them last. Such a radiant night. Sunday – Septuagesima. Feb. 10th.
-            We have had a very hot, unsatisfactory week. The thermometer has ranged from 80-86 in
+            tomorrow, when we saw them last. Such a radiant night. </p>
+            </div>
+            
+            <div xml:id="EBA18950210" type="Entry">
+            <p><title>Sunday – Septuagesima. Feb. 10th. </title></p>
+            <p>We have had a very hot, unsatisfactory week. The thermometer has ranged from 80-86 in
             the shade. At one time the dahabeahs numbered 12 – of which I am glad to say we were
             always first or second – but the little sand beach along the island of Elephantine is
             very small – and grew to be very smelly. Now that so many dahabeahs go up the river this
@@ -607,14 +703,22 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             annoying. The night with the full moon have been quite beautiful – and all of the time
             we have the music of the same old croaking sakkish in our ears. The Scott-Elliots are
             expected down from Wady Half tomorrow – but we shall not wait for them, but start early
-            for Kom Ombos – quite glad to get away from Assouan. Monday. Feb. 11. Jones went over
-            quite early this morning for the last mail, and then we made ready to start – all the
+            for Kom Ombos – quite glad to get away from Assouan. </p>
+            </div>
+            
+            <div xml:id="EBA18950211" type="Entry">
+            <p><title>Monday. Feb. 11. </title></p>
+            <p>Jones went over quite early this morning for the last mail, and then we made ready to start – all the
             fowls were caught and cooped – stakes brought in – ropes slipped. The Zunt-el-Nil came
             up yesterday close behind us, ready to slip into our place when we left, and we saw our
             old Reis Achmed of the Nubia, who is now Captain of the Zunt-el-Nil so nice and
             dignified – we dropped down the river, stopped here and there to put off some friends of
-            the Captains or one of the crew. Feb. 12th. Kom Ombo. In my haste the evening of the
-            12th at Kom Ombo I forgot the day before – when we made 18 miles only. We made our 8
+            the Captains or one of the crew. </p>
+            </div>
+            
+            <div xml:id="EBA18950212" type="Entry">
+            <p><title>Feb. 12th. Kom Ombo. </title></p>
+            <p>In my haste the evening of the 12th at Kom Ombo I forgot the day before – when we made 18 miles only. We made our 8
             miles to Kom Ombo by half past 3 o’clock, almost to our surprise we found ourselves at
             Kom Ombo and the Columbia lying there. We waited until 5 o’clock, until the heat had
             abated a little, and then went up. I had never seen this temple before, except in
@@ -625,14 +729,23 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             delicious – and the views from that height – Theodore and Nettie went up again this
             evening to see the moonlight effects. The Columbia has gone and 2 Cook steamers are here
             – but everything is very quiet, and the peace and pure air delicious after the noise and
-            smells of Assouan. Wednesday. Feb. 13. We are lying at Silsilis tonight, having made 15
+            smells of Assouan. </p>
+            </div>
+            
+            <div xml:id="EBA18950213" type="Entry">
+            <p><title>Wednesday. Feb. 13. </title></p>
+            <p>We are lying at Silsilis tonight, having made 15
             miles. We were too late to see much of the grottoes tonight. Nettie intends getting up
             early tomorrow to see the quarries on the other side of the river. I think them one of
             the most impressive sights of the Nile. This morning, directly after breakfast we went
             up to the temple again, I took my camera, and made some views. The Isis came up last
             evening – and is lying tonight close by us. They have all been over to see us and Dr.
-            Ware spent the evening with us. Thursday. Feb. 14. Edfou We have had an intensely hot
-            day – hotter than yesterday – and perfectly calm (thermometer on deck in shade 86°) – so
+            Ware spent the evening with us. </p>
+            </div>
+            
+            <div xml:id="EBA18950214" type="Entry">
+            <p><title>Thursday. Feb. 14. Edfou </title></p>
+            <p>We have had an intensely hot day – hotter than yesterday – and perfectly calm (thermometer on deck in shade 86°) – so
             that we dropped down easily to Edfou – starting at 8:30 this morning, and reaching Edfou
             at 4 o’clock, making 26 miles. We waited awhile, as it was too much to go out into the
             fiery furnace of the afternoon. The Isis was before us, as she started earlier than we
@@ -641,7 +754,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             sketching. It was deliciously cool and interesting in that noble temple. The town I
             horridly dirty – and I have never seen such a crowd of besieging natives. The gens
             d’armes kept no sort of peace – and an ophthalmic hospital might have been filled with
-            the blind beggars. Friday. Feb. 15. El Kab. In spite of a very strong north head wind,
+            the blind beggars. </p>
+            </div>
+            
+            <div xml:id="EBA18950215" type="Entry">
+            <p><title>Friday. Feb. 15. El Kab. </title></p>
+            <p>In spite of a very strong north head wind,
             we made this place at 5 o’clock in the afternoon – but were obliged to tie up on the
             opposite side of the river, because of the wind – it has been banging and knocking us
             about in the most pronounced manner I have ever known on the river. The Isis was close
@@ -650,8 +768,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             up, and which we were sure was occupied by Mr. Tylor, or Mr. Somers-Clarke. They found
             the latter there, busy with his excavations – and wearing the native dress. We will go
             over tomorrow early, and make him a visit, and see the temple that he discovered, and is
-            now excavating. The north wind still raging – but much cooler. Saturday. Feb. 16th. We
-            pulled across the river early this morning and directly after breakfast went up to see
+            now excavating. The north wind still raging – but much cooler. </p>
+            </div>
+            
+            <div xml:id="EBA18950216" type="Entry">
+            <p><title>Saturday. Feb. 16th. </title></p>
+            <p>We pulled across the river early this morning and directly after breakfast went up to see
             Mr. Somers-Clarke, whom we found with his workmen, busy at his excavations. He is
             beginning to lay bare the remains of a temple within the great inclosing walls of the
             ancient fortress. Thee walls are built of mud bricks, and are of extraordinary
@@ -688,8 +810,13 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             almost no wind. The Isis preceeded us, making a very early start from El Kab, and
             getting the benefit of the good south wind that blew during the early morning. Dr. Ware
             came over this evening – they will have their bread early, and will start for Luxor at 6
-            o’clock in the morning, while we must wait all day tomorrow here for our baking.
-            Sexagesima Sunday Esneh. Feb. 17. It has been excessively hot all day – and I have not
+            o’clock in the morning, while we must wait all day tomorrow here for our baking. </p>
+            </div>
+            
+            <div xml:id="EBA18950217" type="Entry">
+            <p><title>Sexagesima Sunday <lb/>
+            Esneh. Feb. 17. </title></p>
+            <p>It has been excessively hot all day – and I have not
             been off the boat – not feeling well. Theodore and Nettie walked to the Temple this
             morning, and this afternoon had some donkeys and rode into the country – falling with
             some boys whom we met here before – and went with Alexander to his house for some coffee
@@ -697,8 +824,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             furnished. All the principal people in Esneh are Copts. The men of the family all came
             in to talk to them – and were immensely dignified, well dressed men – all having just
             been to church. The Egyptian part of Esneh is indescribably dirty and horrid, like a
-            great gray wasp’s nest – and not half as clean. Monday Feb. 18. Luxor Our bread was very
-            late arriving this morning, and as a fine south wind was blowing, we grew very impatient
+            great gray wasp’s nest – and not half as clean. </p>
+            </div>
+            
+            <div xml:id="EBA18950218" type="Entry">
+            <p><title>Monday Feb. 18. Luxor </title></p>
+            <p>Our bread was very late arriving this morning, and as a fine south wind was blowing, we grew very impatient
             to get off, which we did not do until half past nine. We had both sails up, and made
             such splendid progress, that we stayed on deck all the time in spite of the heat. The
             thermometer at the hottest part of the day, was at 86°. We were amazed to see the
@@ -712,11 +843,19 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             2 cases of it, and below her is a French dahabeah, also in quarantine with a case of
             typhoid. We congratulated ourselves that we lie so far above them. Theodore was talking
             to Dr. Ware this evening about them. We were having tea on deck when Miss Wallace who
-            had been taking a row, came to see us – looking so much better. Tuesday. Feb. 19. So hot
-            today I only went for a little walk on the top of the bank – but very glad to reach home
+            had been taking a row, came to see us – looking so much better. </p>
+            </div>
+            
+            <div xml:id="EBA18950219" type="Entry">
+            <p><title>Tuesday. Feb. 19. </title></p>
+            <p>So hot today I only went for a little walk on the top of the bank – but very glad to reach home
             again. Miss Wallace and Mr. and Mrs. Scott-Elliot came to dine with us this evening – we
-            had a charming dinner for them. They think our boat vastly superior to theirs.
-            Wednesday. Feb. 20. I had a most delightful donkey ride this morning with Theodore out
+            had a charming dinner for them. They think our boat vastly superior to theirs. </p>
+           	</div>
+           
+           	<div xml:id="EBA18950220" type="Entry">
+            <p><title>Wednesday. Feb. 20. </title></p>
+            <p>I had a most delightful donkey ride this morning with Theodore out
             to Karnac, where we did not stop, and along a high embankment near the desert, and a
             long route home through the delicious green, green fields, the barley just in head.
             Never was air so pure and fragrant. The wide valley here at Luxor is highly cultivated,
@@ -725,8 +864,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             He was seated near Theodore at table when we were at Cairo, and Theodore found him very
             nice. He says that the 3 cases of fever are supposed to have been caught on the
             Messageries steamer, on which they all came over. But as they subsequently all stayed at
-            the Continental in Cairo, it is not easy to attach suspicion to the right quarter.
-            Thursday. Feb. 21. At home all the morning. At 2:30 we crossed in the felucca to the
+            the Continental in Cairo, it is not easy to attach suspicion to the right quarter. </p>
+            </div>
+            
+            <div xml:id="EBA18950221" type="Entry">
+            <p><title>Thursday. Feb. 21. </title></p>
+            <p>At home all the morning. At 2:30 we crossed in the felucca to the
             other side for a visit to Der el Bahari, which I have not seen since the great
             excavations of the past two years. It was a rather hot ride and hard one for me. We
             found the Isis people already on the spot - photographing and sketching – of all the
@@ -750,8 +893,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             bare, and the ruin will form a spectacle to delight and interest the world. It was quite
             dark as we came home in the felucca – only a line of crimson yellow in the western sky,
             reflected in the water, and above it brilliant and soft, Venus, casting a line of
-            rippling silver across the water. Saturday. Feb. 23d. Home all day yesterday – quite
-            used up with my expedition of yesterday. The Misses Scott-Elliot came to breakfast with
+            rippling silver across the water. </p>
+            </div>
+            
+            <div xml:id="EBA18950223" type="Entry">
+            <p><title>Saturday. Feb. 23d. </title></p>
+            <p>Home all day yesterday – quite used up with my expedition of yesterday. The Misses Scott-Elliot came to breakfast with
             Dr. Ware – and after Nettie went for the whole day at Karnac – Theodore and I took Dr.
             Ware for an inspection of that certain crossing of the island to the Tombs of the Kings,
             and afterwards met Miss and Mr. Scott-Elliot and her brother and visited the Luxor
@@ -783,12 +930,22 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             letters is quite appalling – while one thermometer during the day on deck in the shade
             ranges from 80 to 88 – though the night are cold – night before last after a very hot
             day, it was 45 at 7 o’clock in the morning. The radiation is so very rapid under this
-            absolutely cloudless sky. Sunday – Qunquagesima Luxor – Feb. 24. A very hot day. The
-            rest crossed the river at Medinet Habou this morning – returning to lunch, - then again
+            absolutely cloudless sky. </p>
+            </div>
+            
+            <div xml:id="EBA18950224" type="Entry">
+            <p><title>Sunday – Qunquagesima <lb/>
+            Luxor – Feb. 24. </title></p>
+            <p>A very hot day. The rest crossed the river at Medinet Habou this morning – returning to lunch, - then again
             in the afternoon to Der el Bahari – I did not feel up to either of these excursions –
             but went down to Karnac at 4 o’clock in the felucca, with one, where our donkeys had
             been sent, and spent an hour and a half there, riding home around the town the long way
-            – which was very pleasant. Monday. Feb. 25. I rode into the town this morning, while
+            – which was very pleasant. </p>
+            </div>
+            
+            <div xml:id="EBA18950225" type="Entry">
+            <p><title>Monday. Feb. 25. </title></p>
+            <p>I rode into the town this morning, while
             Theodore, Nettie and Dr. Ware walked to Mohammed Mohassibs – where we spent an hour or
             two talking to the old man and looking at his things. Theodore bought two or three
             pretty things – Mohassib presented us all with parting souvenirs – and we said a
@@ -821,14 +978,23 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             carry her away with me – she was not more than 8. We got away at 1 o’clock, very glad to
             be moving in all that heat – the Isis came on directly behind us – the afternoon was
             calm, or with a flutter of South wind – and we easily made 24 miles before pulling up
-            for the night. Tuesday. Feb. 26. With a light south wind this morning we started at 6
+            for the night. </p>
+            </div>
+            
+            <div xml:id="EBA18950226" type="Entry">
+            <p><title>Tuesday. Feb. 26. </title></p>
+            <p>With a light south wind this morning we started at 6
             o’clock and made 20 miles to Keneh by 10 o’clock. We stopped at the Keneh landing and
             Theodore and Nettie rode into the town on a vain quest for interesting antiquities –
             while Jones and Selim went for provisions. Then we pulled over to Denderah where the
             Isis was, and everybody went except myself to see the temple. The heat was too great for
             me – and I never find that temple very interesting. We went off, leaving the Isis, at 6
-            o’clock – but only made a short distance as the wind was against us. Wednesday. Feb. 27.
-            Started in a dead calm at 7 am and have made 42 miles – passing Dishneh, Kaar as Said,
+            o’clock – but only made a short distance as the wind was against us. </p>
+            </div>
+            
+            <div xml:id="EBA18950227" type="Entry">
+            <p><title>Wednesday. Feb. 27. </title></p>
+            <p>Started in a dead calm at 7 am and have made 42 miles – passing Dishneh, Kaar as Said,
             Karshout, and are now lying about 4 miles below Farshout – the Isis behind us. Very hot
             all day – it has been impossible to do anything. Thermometer in shade on deck has been
             up to 94 – the night very warm and still – the little new moon, and Venus perfectly
@@ -836,16 +1002,24 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             close the windows in the morning early, as soon as the servants have finished cleaning,
             shutters, blinds and all – and possibly the canvass over them – and I am pleased to find
             how cool the boat can be kept – but the heat is very trying – and I almost feel as if I
-            were again living in Ohio, during the summer. Feb. 28. Thursday. Started at 8:30 this
-            morning – very hot and still – and made Balliana at 1 o’clock – 14 miles. Too late to
+            were again living in Ohio, during the summer. </p>
+            </div>
+            
+            <div xml:id="EBA18950228" type="Entry">
+            <p><title>Feb. 28. Thursday. </title></p>
+            <p>Started at 8:30 this morning – very hot and still – and made Balliana at 1 o’clock – 14 miles. Too late to
             attempt Abydos. The Isis people are waiting until tomorrow too, for the expedition. But
             we are feeling a little doubtful tonight about it – as the heat has been extreme – 99 on
             deck this afternoon, under the awning – Theodore and Nettie walked down to the Isis –
             but I preferred the clean quiet deck – at 6 o’clock the thermometer was still at 80 –
             and Theodore has wisely announced that unless a cool north wind blows in the morning, he
             will start down. I shall be sorry not to see that beautiful Temple – and to miss that
-            ride through the pleasant country – but it is a long one – 9 miles out. March 1st.
-            Friday. The morning dawned hot and still – and Abydos was impossible. So we started at
+            ride through the pleasant country – but it is a long one – 9 miles out. </p>
+            </div>
+            
+            <div xml:id="EBA18950301" type="Entry">
+            <p><title>March 1st. Friday. </title></p>
+            <p>The morning dawned hot and still – and Abydos was impossible. So we started at
             8:30 as we passed the Isis, Mr. Scott-Elliot called out to Theodore that all their party
             excepting his wife and himself had made a very early start for Abydos – and would spend
             the day there – returning as late as possible. The day has been insufferably hot –
@@ -869,33 +1043,59 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             everything”. Their habit too of eating enormously after the fast of the day – and
             keeping awake to eat most of the night, upsets them sadly – and makes one wish to try
             and reason with them. Our people, however, are not hurting themselves – and the fast was
-            given up after the second day. Saturday. March 2. A cool, light north wind was blowing
+            given up after the second day. </p>
+            </div>
+            
+            <div xml:id="EBA18950302" type="Entry">
+            <p><title>Saturday. March 2. </title></p>
+            <p>A cool, light north wind was blowing
             this morning. Started at 7 and made Akmim at noon – where we stopped, and sent into town
             on a vain search for the antiquity dealer of last year – he was not to be found however.
             We tried rowing for awhile but the north wind was too strong – and sunset found us
             anchored in the stream just below the town – then the wind falling a little, our Rais
             ventured again, but we got into a very difficult place – and finally put up the sail and
-            sailed up the river for half a mile, and anchored to a sand bank. Sunday. March 3. First
-            Sunday in Lent. A cold north wind blowing all day – most refreshing – it grew so strong
-            that we made only 3 miles – stopping all day at Sohag. Monday. March 4. We have made a
-            splendid run of 64 miles today – and are now lying about 4 miles from Assiout – have
+            sailed up the river for half a mile, and anchored to a sand bank. </p>
+            </div>
+            
+            <div xml:id="EBA18950303" type="Entry">
+            <p><title>Sunday. March 3. First Sunday in Lent. </title></p>
+            <p>A cold north wind blowing all day – most refreshing – it grew so strong
+            that we made only 3 miles – stopping all day at Sohag. </p>
+            </div>
+            
+            <div xml:id="EBA18950304" type="Entry">
+            <p><title>Monday. March 4. </title></p>
+            <p>We have made a splendid run of 64 miles today – and are now lying about 4 miles from Assiout – have
             passed Tahtah – Gaou and Aboutig. The morning was exquisite – I went on deck immediately
             after breakfast – and was there most of the day. Nothing could be more lovely than that
             morning effects – the cliffs a pink yellow, with heliotrope shadows sleeping in their
-            hollows. – the water, silverly pink, reflecting every object. Tuesday. March 5. We were
-            at Assiout early – and landed for our mail, and some provisions. Met all the Isis people
+            hollows. – the water, silverly pink, reflecting every object. </p>
+            </div>
+            
+            <div xml:id="EBA18950305" type="Entry">
+            <p><title>Tuesday. March 5. </title></p>
+            <p>We were at Assiout early – and landed for our mail, and some provisions. Met all the Isis people
             in the bazaar – nothing seemed nice in Assiout today – but the smell of orange blossoms
             as we passed the big garden – and we were glad to be back on the boat again. We are at
             Manfalout – and have made 26 miles. The day intensely hot – 84 in the saloon early this
             afternoon – I went out so early, that I did not superintend the closing of the windows –
-            the only effective way of keeping the boat cool. Wednesday. March 6. We are still lying
-            at Manfalout – but have moved across the river, and are anchored near a sandy beach. We
+            the only effective way of keeping the boat cool. </p>
+            </div>
+            
+            <div xml:id="EBA18950306" type="Entry">
+            <p><title>Wednesday. March 6. </title></p>
+            <p>We are still lying at Manfalout – but have moved across the river, and are anchored near a sandy beach. We
             found the bank at which we lay last night, very muddy – the Nile having lately left it –
             and the rank smell that came from it most disagreeable, and I am sure unhealthy. We have
             a lovely air tonight, the north wind which has been blowing a gale all day, and
             prevented our moving, has moderated, and is very sweet, soft and fresh. All the Isis
             people over here this morning. It has seemed a long day – so hot – and under the
-            necessity of lying quietly by. Thursday. March 7. A north wind all day – but we have
+            necessity of lying quietly by. </p>
+            </div>
+            
+            <div xml:id="EBA18950307" type="Entry">
+            <p><title>Thursday. March 7. </title></p>
+            <p>A north wind all day – but we have
             managed to make 25 miles – passing the big Aboufoydah chain. We overtook the Isis early
             in the day – and were also in company with the London, a dahabeah whose people had left
             her at Girgeh – and she was making her way down to Cairo – closed and shrouded in her
@@ -911,14 +1111,22 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             out of work. There were many congratulations called out to them from our boat. This
             morning as the Postal Steamer Hatasou passed us quite close, we saw Mr. Lapsley who was
             waving to us, and staring at us through his glasses. We are within two or three miles of
-            Haji Kandeel – the station for Tel el-Amarna – which we intend visiting tomorrow.
-            Friday. March 8th. A heavy north wind blowing all the morning. In the afternoon floating
+            Haji Kandeel – the station for Tel el-Amarna – which we intend visiting tomorrow. </p>
+            </div>
+            
+            <div xml:id="EBA18950308" type="Entry">
+            <p><title>Friday. March 8th. </title></p>
+            <p>A heavy north wind blowing all the morning. In the afternoon floating
             and rowing we reached Haji Kandeel about 4 o’clock. A very noisy unpromising crowd of
             natives gathered on the shore – and such a vociferation went on, I was forced to come
             below, to get away from them. Theodore and Nettie walked about on shore. The Isis having
             come up with us this evening, Dr. Ware came over, and we all had a game of domino whist.
-            We are all to go to the Tel el Amarna tombs tomorrow. Saturday. March 9th. The day
-            dawned very gray and cold – high wind – having taken cold a day or two ago, I wisely
+            We are all to go to the Tel el Amarna tombs tomorrow. </p>
+            </div>
+            
+            <div xml:id="EBA18950309" type="Entry">
+            <p><title>Saturday. March 9th. </title></p>
+            <p>The day dawned very gray and cold – high wind – having taken cold a day or two ago, I wisely
             decided to stay in the boat. A still more noisy, rude and vociferous crowd, with their
             donkeys about the boat, and the choice of the latter was not difficult, when all were so
             poor and jaded. They came back about 11 o’clock having seen part of the grottoes or tomb
@@ -930,15 +1138,29 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             half an hour, we took refuge at the end of a sand bank, opposite and a little way blow,
             the Isis, and anchored strongly – the water rushing in real waves past us – and the sand
             flying furiously and her we are for the night I suppose – as, although there is a full
-            moon – there is little prospect of the wind dying out. 2nd Sunday in Lent. March 10. A
-            great gale has prevailed all day – we have not stirred from our moorings – except as we
+            moon – there is little prospect of the wind dying out. </p>
+            </div>
+            
+            <div xml:id="EBA18950310" type="Entry">
+            <p><title>2nd Sunday in Lent. March 10. </title></p>
+            <p>A great gale has prevailed all day – we have not stirred from our moorings – except as we
             are battered about by the wind. We rowed until 3 o’clock am last night – and our men are
             having a good rest today. My cold very bad – indoors all day. Dr. Ware came over to
-            lunch – 20 miles. Monday. March 11th. We started at 6 o’clock this morning, and in spite
+            lunch – 20 miles. </p>
+            </div>
+            
+            <div xml:id="EBA18950311" type="Entry">
+            <p><title>Monday. March 11th. </title></p>
+            <p>We started at 6 o’clock this morning, and in spite
             of a north wind, we reached Beni Hasan at 10 o’clock. The morning was very gray, the
             first gray day of the winter – and so cool that I did not venture out to the tombs with
             Theodore and Nettie. We were off at one o’clock and reached Minieh at 10 P.M. making 25
-            -1/2 miles. Tuesday. March 12. The north wind not quite so strong today. Jones went into
+            -1/2 miles. </p>
+            </div>
+            
+            <div xml:id="EBA18950312" type="Entry">
+            <p><title>Tuesday. March 12. </title></p>
+            <p>The north wind not quite so strong today. Jones went into
             the town immediately after breakfast and got our mail – then we were off – and brought
             up about 3 o’clock within 5 miles of Abou Girgeh. The moon rose tonight about 8 –
             splendid and big with a yellow light that was really reflected on the sky about her. We
@@ -949,23 +1171,48 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             on deck in the morning until the north wind grew too strong – have passed Benisoef and
             Wasta, and made 38 miles – and have pulled up at Rikkeh. The splendid Meydoum pyramid
             has been in sight all the afternoon. The wind is raging tonight. The Isis just ahead of
-            us. Friday. March 15. We haven’t stirred today – as the north wind is still howling and
+            us. </p>
+            </div>
+            
+            <div xml:id="EBA18950315" type="Entry">
+            <p><title>Friday. March 15. </title></p>
+            <p>We haven’t stirred today – as the north wind is still howling and
             knocking us about. I couldn’t sleep last night because of the racket – and when about 2
             o’clock on or our cables parted at the stern and we swung about in the stream, rolling
             from side to side as if we were at sea, I was almost alarmed. There was a great row
             about it. Miss Wallace and Dr. Ware came to lunch – and we are able to go over and dine
-            with them this evening. Saturday. March 16. We have just pulled up to the bank at
+            with them this evening. </p>
+            </div>
+            
+            <div xml:id="EBA18950316" type="Entry">
+            <p><title>Saturday. March 16. </title></p>
+            <p>We have just pulled up to the bank at
             Bedraheya – after a wearing row from 6 o’clock, until 8:30 tonight. Our poor men are
             very tired – but as cheerful as possible. We have made 34 miles – in the face of a
-            strong north wind that has not abated for one minute. Sunday. March 17. 3d Sunday in
-            Lent. The Isis appeared early this morning – landing just in front of us – and we all
+            strong north wind that has not abated for one minute. </p>
+            </div>
+            
+            <div xml:id="EBA18950317" type="Entry">
+            <p><title>Sunday. March 17. <lb/>
+            3d Sunday in Lent. </title></p>
+            <p>The Isis appeared early this morning – landing just in front of us – and we all
             started for Sakkarah soon after breakfast – I however only getting as far as Memphis –
             where the temple lie, that we saw excavated last time we were here. The wind was very
             strong – and increased with the day – blinding clouds of dust and sand. The rest arrived
             at 4 o’clock – complaining much of the wind and dust. We cannot of course get away while
-            this wind holds. Monday. March 18. Still lying at Bedrasheyn tossed about by the wind.
+            this wind holds. </p>
+            </div>
+            
+            <div xml:id="EBA18950318" type="Entry">
+            <p><title>Monday. March 18. </title></p>
+            <p>Still lying at Bedrasheyn tossed about by the wind.
             The Isis people, whose lease has expired today, telegraphed to Cook for a tug and went
-            off triumphantly just at dusk. Ghizeh. March 19. To our great joy the wind fell last
+            off triumphantly just at dusk. </p>
+            </div>
+            
+            <div xml:id="EBA18950319" type="Entry">
+            <p><title>Ghizeh. March 19. </title></p>
+            <p>To our great joy the wind fell last
             night suddenly about 12 o’clock. We were off at once, and our men easily made the 12
             miles here by 3 o’clock – and when we got up we found ourselves just behind the Isis –
             who it seems only got in two hours before us, the tug having broken down when they had
@@ -981,8 +1228,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             life like manner – one company of Egyptians, and the other of Soudanese – it is
             extraordinary work for the 12th Dynasty. As we were coming out of the Museum, we saw
             Mary Parsons, whom Theodore had hoped to see at Shepheards. Theodore brought a great
-            bunch of letters and papers – and after lunch we all went again over to the Museum.
-            Wednesday, March 20. Mary Parsons and Mis Crane appeared quite early this morning – and
+            bunch of letters and papers – and after lunch we all went again over to the Museum. </p>
+           	</div>
+           	
+           	<div xml:id="EBA18950320" type="Entry">
+            <p><title>Wednesday, March 20. </title></p>
+            <p>Mary Parsons and Miss Crane appeared quite early this morning – and
             were quite interested in going over the dahabeah. When they had gone, we stared out to
             the Pyramids, Theodore and Nettie on their donkeys – and I in the bid landau with
             Mahommed on the box – we were just in time for lunch with the Isis people – and
@@ -996,8 +1247,13 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             begins the unpleasant work of dismantling – settling with the men and leaving the boat –
             which in spite of my great joy and satisfaction in finishing this Nile journey, still
             has an element of sadness in it – for after all, this Herodotus has been our home for 2
-            winters. Thursday. March 21st. Cairo – Shepheards Hotel We came across the river and
-            down to Cairo directly after breakfast. Theodore took Mary ashore, and goes to the
+            winters. </p>
+            </div>
+            
+            <div xml:id="EBA18950321" type="Entry">
+            <p><title>Thursday. March 21st. <lb/>
+            Cairo – Shepheards Hotel </title></p>
+            <p>We came across the river and down to Cairo directly after breakfast. Theodore took Mary ashore, and goes to the
             bazaar with her and Miss Crane – and Nettie and I, with Jones, pitched into the business
             of packing – our pretty adornments and personal things were soon hauled down from the
             walls, and when Theodore came back to lunch he found a dismantled boat, and stumbled
@@ -1011,8 +1267,13 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             the men. There is always great expectancy on their part, and very often no doubt, great
             disappointment. About 4 o’clock, all these affairs having been wound up, we bade a warm
             farewell to all, and departed for Shepheards – where we are now most comfortably
-            installed in the same apartment we had in December. But what an age ago that seems! S.S.
-            Singapore, Rubitimo Line Alexandria. March 28. Although we should have sailed this
+            installed in the same apartment we had in December. But what an age ago that seems! </p>
+            </div>
+            
+            <div xml:id="EBA18950328" type="Entry">
+            <p><title>S.S. Singapore, Rubitimo Line <lb/>
+            Alexandria. March 28. </title></p>
+            <p>Although we should have sailed this
             morning at 10 o’clock, we are still tied strongly to the dock, with the wind blowing a
             furious gale, and making it impossible to put to sea. We left Cairo yesterday afternoon
             at 4 o’clock – and spent last night at the Khedivial Hotel. We had six days in Cairo,
@@ -1053,8 +1314,13 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             we found Abbecatio and old Selim – and the last thing we saw as the train moved off, was
             our 2 poor boys looking bereft and distressed. We are rather pleased with the look of
             this boat – but have always avoided this line, it was a necessity however, as we could
-            not get into any other boat sailing about this time. Hotel, Grand Bretagne. Florence,
-            April 7th. Palm Sunday. We have passed many an uncomfortable hour since I last made an
+            not get into any other boat sailing about this time. </p>
+            </div>
+            
+            <div xml:id="EBA18950407" type="Entry">
+            <p><title>Hotel, Grand Bretagne. <lb/>
+            Florence, April 7th. Palm Sunday. </title></p>
+            <p>We have passed many an uncomfortable hour since I last made an
             entry in this journal. We got off from Alexandria the morning after but soon after
             sailing lost one of the sailors overboard, who fortunately was able to swim and get onto
             a buoy – a small boat with 6 men was sent out to him in the heavy sea, and was capsized,
@@ -1088,7 +1354,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             there is now no danger of any fever, as we feared at first there might be. The Quincy
             Shaws of Boston, with Mrs. Louis Agassiz are in this hotel, and Miss Shaw and Mrs.
             Agassiz came to tea yesterday afternoon. We met the Bronsons yesterday driving – and
-            Mrs. B. called today. Wednesday. April 10. We are all ready to leave this delicious
+            Mrs. B. called today. </p>
+            </div>
+            
+            <div xml:id="EBA18950410" type="Entry">
+            <p><title>Wednesday. April 10. </title></p>
+            <p>We are all ready to leave this delicious
             Florence tomorrow – though we do it very unwillingly – but our time is short, and
             beautiful and interesting things so crowd upon one here, that choice is difficult. We
             have arranged a little driving tour with Mr. Berenson who will go with us – and will
@@ -1116,7 +1387,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             San Miniato, and went into the church for a few minutes. This morning I went to
             Palotti’s with Theodore, where we met the Thatcher Adams and Mrs. Bronson. Theodore
             bought some lovely old Venetian brocade, and four charming cushions of green Genoa
-            velvet. Saturday, April 13. We left Florence on Thursday morning soon after breakfast in
+            velvet. </p>
+            </div>
+            
+            <div xml:id="EBA18950413" type="Entry">
+            <p><title>Saturday, April 13. </title></p>
+            <p>We left Florence on Thursday morning soon after breakfast in
             two landaus – sending Jones with the heavy luggage by train – and stopping two hours
             during the middle of the day for rest and lunch – reached Sienna by 6:30 – the distance
             being 40 miles. It was an enchanting drive – the day was perfect – the roads likewise –
@@ -1147,14 +1423,23 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             courses of white and black marble, which at first give a very bizarre effect – but the
             infinite variety of detail, and the richness of the marbles make the interior very
             interesting. The pavement too is remarkably rich in graffiti – though much of it is
-            covered with boards and cannot be seen. Easter, April 11. We spent most of the morning
+            covered with boards and cannot be seen. </p>
+            </div>
+            
+            <div xml:id="EBA18950414" type="Entry">
+            <p><title>Easter, April 14. </title></p>
+            <p>We spent most of the morning
             at the Duomo, listening to a high mass – music not very good, but the whole scene was
             impressive. When we all became quite frozen we came away. It has been raining a little
             all day – and I have been indoors all the afternoon. At sunset last evening, Theodore,
             Mary and I walked to the fortress as it is called, or the “Lizza” a beautiful promenade
             with fine trees and shrubberies up the side of a former fortress built by Charles V, -
-            giving charming views from its height over plain and mountains. Easter Monday, April 15.
-            The rain of yesterday has given place to a cloudy cold day – and putting on our warmest
+            giving charming views from its height over plain and mountains. </p>
+            </div>
+            
+            <div xml:id="EBA18950415" type="Entry">
+            <p><title>Easter Monday, April 15. </title></p>
+            <p>The rain of yesterday has given place to a cloudy cold day – and putting on our warmest
             wraps we went after breakfast to the Baptistry of the Duomo, which I called S. Giovanni,
             and forms a kind of crypt – though the front is open to the small piazza of S. Giovanni.
             There is here the most wonderful marble font, with splendid bronze reliefs by Ghiberti
@@ -1180,8 +1465,13 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             entrance hall a large company of the brothers of the Misericordia came in bearning a
             bier like stretcher with a sick person on it – and as they formed in line and waited,
             they made quite a scene in their long black robes and cowls. The hospital looked very
-            clean – and in the church was a beautiful organ with artistic brass work by Peruzzi.
-            Perugia. April 18. Thursday – Grand Hotel We made rather an early start on Tuesday
+            clean – and in the church was a beautiful organ with artistic brass work by Peruzzi. </p>
+            </div>
+            
+            <div xml:id="EBA18950418" type="Entry">
+            <p><title>Perugia. April 18. <lb/>
+            Thursday – Grand Hotel </title></p>
+            <p>We made rather an early start on Tuesday
             morning by rail, and arrived a Chiusi at 1:30 where we stopped for an hour, and had an
             excellent lunch at the station. We found two carriages waiting for us which had been
             sent over by Mme. Beccafumi – and had an enchanting drive here which we reached at 7
@@ -1236,8 +1526,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             in Rome – and as rampant a young churchman as ever – we have been promoted today to a
             very charming apartment just vacated by the Dowager Duchess of Bedford – my room is at
             the corner, overlooking the great Umbrian plain, with the grand sweep of the Appenines –
-            and I seem to be hanging in mid air. Saturday, April 20. Yesterday the rain poured
-            almost continuously – only clearing for awhile in the afternoon when we took Nettie, who
+            and I seem to be hanging in mid air. </p>
+            </div>
+            
+            <div xml:id="EBA18950420" type="Entry">
+            <p><title>Saturday, April 20. </title></p>
+            <p>Yesterday the rain poured almost continuously – only clearing for awhile in the afternoon when we took Nettie, who
             has not been able to do any sight seeing here, to the Sacristy of the Duomo, to see
             Signorelli’s beautiful Madonna, Child and Saints. The light was more favorable than on
             the other day – and we sat a long time in the quiet sacristy looking at it. What
@@ -1252,8 +1546,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             another watching the wonderful cloud effects, and the great marshaling of light and
             shade across the plain. The carriage came back about 7 o’clock with our poor people
             chilled and tired – for the weather has changed and it is cold. We are all ready for our
-            start for Bologne tomorrow morning. Hotel Cavour. Milan. April 23. We left Perugia
-            Sunday morning – the weather having cleared perfectly, giving us perfect views – changed
+            start for Bologne tomorrow morning. </p>
+            </div>
+            
+            <div xml:id="EBA18950423" type="Entry">
+            <p><title>Hotel Cavour. Milan. April 23. <title><p>
+            <p>We left Perugia Sunday morning – the weather having cleared perfectly, giving us perfect views – changed
             cars at Tarantalo – and got an excellent compartment to ourelves quite through to
             Bologne – the views as we crowned the Appenines on that bright day were fine – went to
             the Hotel Brun, where we stayed 9 years ago, and had the same apartment – grand but very
@@ -1279,8 +1577,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             church in Milan – with remains of Roman buildings about it – and in the street near it
             are 16 Corinithian columns, which remain from an ancient colonnade. Then to S. Maria
             preso S. Celso where I went the last time – and we stopped for a few moments at the
-            magnificent Opidale Maggiore – which is so vast that there are 9 courts in it. Milan –
-            Friday, April 26 Wednesday was a gloomy day – and I was too wretched to leave the house.
+            magnificent Opidale Maggiore – which is so vast that there are 9 courts in it. </p>
+            </div>
+            
+            <div xml:id="EBA18950426" type="Entry">
+            <p><title>Milan – Friday, April 26 </title></p>
+            <p>Wednesday was a gloomy day – and I was too wretched to leave the house.
             We went to Bergamo at 4 o’clock p.m. – arriving there at 5:30 – went to the Hotel
             d’Italia – and were decently comfortable – after we had ordered 3 big fires made in our
             rooms. We must have had all the god rooms of the principal floor – and the last entry in
@@ -1326,7 +1628,9 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             drove from the station to the Brera, where Theodore afterwards joined us – and
             afterwards he and I went to the private house where he had seen two little Dutch
             pictures for sale, and after having another look at them decided to telegraph Berenson
-            to buy them for him. We are all ready for our journey to Lucerne tomorrow. 1894 – 1895 1
+            to buy them for him. We are all ready for our journey to Lucerne tomorrow. </p> 1894 – 1895 1
+            </div>
+            
         </body>
     </text>
 </TEI>
