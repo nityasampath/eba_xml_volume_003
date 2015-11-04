@@ -9,10 +9,10 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18941119" type=Entry>
             <p><title>Gibraltar. Nov. 19th. 1894. Monday. </title></p>
             <p>We arrived this morning – dropping our anchor
-            about 12 o’-clock – having sailed from New York on the Fulda at 3 o’clock on the
+            about 12 o’-clock – having sailed from <placeName ref="#New_York">New York</placeName> on the <name type="boat">Fulda</name> at 3 o’clock on the
             afternoon of the 10th. For the first time on the Atlantic I was really ill – and for two
             days kept to my berth and room – the voyage seemed endless. We had pleasant weather, but
-            a tremendous following sea – but the Fulda proved a very steady sea boat – she was clean
+            a tremendous following sea – but the <name type="boat">Fulda</name> proved a very steady sea boat – she was clean
             – the service at table very poor – and on the last morning as I looked at my berth, I
             felt, whatever life might have before me, thankful that there was not another night
             there. The steamer was uncomfortably crowded, with the most unobjectionable lot of
@@ -21,24 +21,24 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             class deck, which was big and unencumbered, except with 3 of the most amusing parrots it
             has ever been my good fortune to meet. There were no second class passengers – so we had
             our chairs carried down there, and lived there the rest of the voyage, quite to
-            ourselves. We came to the Hotel Royal where we stayed with <persName ref="#Wilson">Charlie</persName> and <persName ref="Wilson_Eleanor"> Nellie Wilson</persName>
+            ourselves. We came to the Hotel Royal where we stayed with <persName ref="#Wilson_Charlie">Charlie</persName> and <persName ref="#Wilson_Eleanor">Nellie Wilson</persName>
             seven years ago – and are fairly comfortable. We start tomorrow on a pilgrimage to
-            Madrid, to see its great pictures – and <persName ref="#Davis_Theodore">Theodore</persName> has asked a young man, a fellow
+            <placeName ref="#Madrid">Madrid</placeName>, to see its great pictures – and <persName ref="#Davis_Theodore">Theodore</persName> has asked a young man, a fellow
             passenger, whom he has talked to a good deal and become interested in, to go with us. We
             drove out to see some races this afternoon, as we will have one or two days here on our
-            way back, to show <persName ref="Buttles_Jeanette">Nettie</persName> the island.</p>
+            way back, to show <persName ref="#Buttles_Jeanette">Nettie</persName> the island.</p>
             </div>
             
             <pb n="2"/>
             <div xml:id="EBA18941126" type="Entry">
             <p><title>Madrid. Spain. Nov. 26.</title></p>
-            <p> We left Gibraltar on the
+            <p> We left <placeName ref="#Gibraltar">Gibraltar</placeName> on the
             morning of the 20th at 8 o’clock – going by boat for half and hour to the Spanish
             frontier – where we were rather roughly handled in the Custom House. <persName ref="#Davis_Theodore">Theodore</persName> lost a lot
             of cigarettes – and the only thing that saved his boxes of favorite cigars was the word
             Spain branded on the boxes. They dove to the bottom of my trunk and hauled out my case
             of homeopathic medicines – and had a solemn pow-wow over it. Then they seized my camera
-            that <persName ref="Jones_Daniel">Jones</persName> was carrying – insisted on having the case opened, and were too much afraid
+            that <persName ref="#Jones_Daniel">Jones</persName> was carrying – insisted on having the case opened, and were too much afraid
             of taking out the camera themselves. I took it out – took off the cap and pointed the
             thing at them – to their manifest alarm – for they hurriedly motioned to put it back
             safely in its case. Then they fell upon a stout little basket I was carrying, filled
@@ -46,15 +46,15 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             which they turned over and over, and as it looked like something good to drink, I was in
             hopes they would try it. I would gladly have sacrificed a cherished bottle of glycerine
             for the pleasure of seeing them choking over it. The English have recently built a fine
-            railway from Gibraltar to Cordova connecting with the other Spanish lines – thus
-            releasing Gibraltar from her isolated position. We had a comfortable ride to Cordova –
+            railway from <placeName ref="#Gibraltar">Gibraltar</placeName> to  <placeName ref="#Cordova">Cordova</placeName> connecting with the other Spanish lines – thus
+            releasing <placeName ref="#Gibraltar">Gibraltar</placeName> from her isolated position. We had a comfortable ride to <placeName ref="#Cordova">Cordova</placeName> –
             through generally dreary, vast, waste country, except for the olive orchards. We were
-            almost an hour late, and our train from Seville, in the wagon lit of which we had 2
+            almost an hour late, and our train from <placeName ref="#Seville">Seville</placeName>, in the wagon lit of which we had 2
             compartments engaged, was already in. However we had more than 15 minutes, so our
             luggage was scuttled into the booking office, where to our consternation <pb n="3"/> we were told
             that they never booked luggage so late. Nothing would move them, and we stood staring
-            indignantly at our train, until it moved off for Madrid. We said some bad words and
-            commented satirically on the method of running railways in Spain, where passengers seem
+            indignantly at our train, until it moved off for <placeName ref="#Madrid"> Madrid </placeName>. We said some bad words and
+            commented satirically on the method of running railways in <countryName ref="#Spain">Spain </countryName>, where passengers seem
             to be incidental factors – but the officials’ feelings did not seem to be wounded, so,
             making the best of the business, we drove to the Hotel where we stayed day 7 years ago –
             and the next morning walked to the Mosque or Cathedral, and then afterwards to the
@@ -67,39 +67,39 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             altars which intrude themselves everywhere will never be done away with. One exquisitely
             beautiful portion, called the place of the Kalefs has been entirely opened up since we
             were here last – and the decorations and colour are quite perfect, and the tiles quite
-            marvelous. We left at 2:30 in the afternoon for Madrid – <persName ref="#Davis_Theodore">Theodore</persName>, <persName ref="Buttles_Jeanette">Nettie</persName> and I having
-            what is called a Berlina, where were 3 beds on reclining chairs – while Mr. Palsley and
+            marvelous. We left at 2:30 in the afternoon for <placeName ref="#Madrid">Madrid</placeName> – <persName ref="#Davis_Theodore">Theodore</persName>, <persName ref="Buttles_Jeanette">Nettie</persName> and I having
+            what is called a Berlina, where were 3 beds on reclining chairs – while <persName ref="#Palsley_Mr">Mr. Palsley</persName> and
             <persName ref="Jones_Daniel">Jones</persName> were in another. We were fairly comfortable – though the ancient smell that
             pervaded the cavities from which our coffin-like beds were pulled rather weighed upon my
             senses. At last, sleeping very soundly, I was awakened by <pb n="4"/> a rush of cold air, and saw
             <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="Buttles_Jeanette">Nettie</persName> sitting up staring at some porters who were jabbering Spanish to us,
-            and we at last perceived that we had arrived at Madrid, so we scuttled into our things
+            and we at last perceived that we had arrived at <placeName ref="#Madrid">Madrid</placeName>, so we scuttled into our things
             as best we could – and in the cold light of early dawn drove to our hotel, I with boots
             unbuttoned and no gloves, and our pockets stuffed with soap dishes, tooth brushes etc.
             After having made our toilets and eaten a hot breakfast, we took ourselves off to the
             Museo – incomparable as I knew it to be, I never before realized how much so. Aside from
             the wonderful Velasquezs there are adorable Raphael’s and the most perfect Titians I
-            have ever seen. His equestrian portrait of Charles V and the standing portrait – the
-            portrait of the hateful Philip II – Adam and Eve – Entombment – and a host of others.
+            have ever seen. His equestrian portrait of <persName ref="#Charles_V">Charles V</persName> and the standing portrait – the
+            portrait of the hateful <persName ref="#Philip_II">Philip II</persName> – Adam and Eve – Entombment – and a host of others.
             The most adorable little cabinet picture of the Holy Family by Raphael – 2 delightful
             portraits of Parmigiano and Holy Family - a Giorgione, and one treasure after another –
             until it was quite bewildering. We came away at one o’clock quite congealed with cold.
-            The next day, Nettie and Lapsley, Jones and a valet de place made an early start for
-            Toledo. Theodore spent the morning at the gallery, and came home in a maze of delight –
+            The next day, <persName ref="Buttles_Jeanette">Nettie</persName>  and Lapsley, <persName ref="Jones_Daniel">Jones</persName> and a valet de place made an early start for
+            <placeName ref="#Toledo">Toledo</placeName>. <persName ref="#Davis_Theodore">Theodore</persName> spent the morning at the gallery, and came home in a maze of delight –
             and I not feeling very well sat by the fire and wrote letters. The next day the rest
-            went to the Escorial – Theodore and I spent 3 hours at the Gallery – and yesterday being
-            Sunday, we all went to the gallery in the morning. Nettie and I to drive in the
+            went to the Escorial – <persName ref="#Davis_Theodore">Theodore</persName> and I spent 3 hours at the Gallery – and yesterday being
+            Sunday, we all went to the gallery in the morning. <persName ref="Buttles_Jeanette">Nettie</persName> and I to drive in the
             afternoon – <pb n="5"/> the rest to a bull fight! We found the royal park distinctly depressing –
             limited, badly cared for, wretchedly planted – afterwards we drove to the great park –
             but were so cold and tired we could not enjoy anything and came home wondering at the
             crowds of people in the Park, and in the streets, and if anywhere in the big city of
-            Madrid there could be anybody left in a house. We got off at 6 tonight for Seville.
-            Jones is packing – and we take our last afternoon at the gallery. </p>
+            <placeName ref="#Madrid">Madrid</placeName> there could be anybody left in a house. We got off at 6 tonight for <placeName ref="#Seville">Seville</placeName>.
+            <persName ref="Jones_Daniel">Jones</persName> is packing – and we take our last afternoon at the gallery. </p>
             </div>
             
             <div xml:id="EBA18941129" type="Entry">
             <p><title>Granada. Nov. 29. </title></p>
-            <p>We had a most uncomfortable ride to Seville the other night – arriving about 10 in the
+            <p>We had a most uncomfortable ride to <placeName ref="#Seville">Seville</placeName> the other night – arriving about 10 in the
             morning. Went to the Hotel de Madrid, and were shown to the very rooms we occupied 7
             years ago, with Charlie and Nellie. After breakfast went to the Cathedral, where we were
             not allowed to put our heads in hardly – as the whole great structure was filled with
@@ -109,7 +109,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             afternoon a short visit to the almost uninteresting gallery, and to the Caradid
             hospital, and then to the Aleazar, and a last peep into the Cathedral in the gloom of
             the evening, brought us back to the hotel in time for tea – and we lamented, at least
-            Theodore and I, that time and money had been wasted in Seville. A start the next morning
+            <persName ref="#Davis_Theodore">Theodore</persName> and I, that time and money had been wasted in Seville. A start the next morning
             at 10, and a long railway ride to Granada which we reached at 8:30 in the evening, <pb n="6"/> very
             tired and a long ride up to this hotel in the Alhambra grounds. Today it has rained. I
             have stayed in doors. The hotel is almost empty – a stray American or two – and 2
@@ -130,13 +130,13 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             below, it was too gloomy to be brightened by the tiny stove, that only smoked and never
             burned – our bedrooms were very damp. We left for Gibraltar on Sunday Dec. On the 5
             o’clock train, which made it necessary to be called at a quarter to 4, in order to
-            dress, breakfast, and drive the long distance to the station. Theodore and Mr. Lapsley
+            dress, breakfast, and drive the long distance to the station. <persName ref="#Davis_Theodore">Theodore</persName> and Mr. Lapsley
             breakfasted down stairs – but Nettie and I took our wretched little meal of bad coffee,
             bad eggs and butter in our melancholy sitting <pb n="7"/> room by the light of the lamp. It seemed
             quite in the middle of the night when we got into the omnibus and there was an air of
             flight or secret adventure in it. We had some time to wait in the draughty station – and
             then Nettie and I had a Berlina to ourselves, in consideration of my ailing throat, and
-            the necessary amount of tobacco smoke Theodore and Lapsley had to manufacture. So we
+            the necessary amount of tobacco smoke <persName ref="#Davis_Theodore">Theodore</persName> and Lapsley had to manufacture. So we
             smuggled down in our corners, and went promptly to sleep. At 10 o’clock we reached
             Bobadilla, where we breakfasted and changed cars. As the day wore on the wind became
             very cold and violent – our speed was anywhere from 8-10 miles an hour. We arrived at
