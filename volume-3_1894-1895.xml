@@ -58,7 +58,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             to be incidental factors – but the officials’ feelings did not seem to be wounded, so,
             making the best of the business, we drove to the Hotel where we stayed day 7 years ago –
             and the next morning walked to the Mosque or Cathedral, and then afterwards to the
-            little plaza near for a view of the bridge across the Guadalquiver, the foundations of
+            little plaza near for a view of the bridge across the <geogName ref="#Guadalquivir">Guadalquiver</geogName>, the foundations of
             which are Roman and the rest Moorish. A promising era seems to have set in for the
             Mosque – for many of the built up arches are being restored – the stuff added in later
             and Christian times carted away, and the beautiful Moorish arches, ornaments and
@@ -182,7 +182,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             We were all packed and ready to land as <placeName ref="#Ismailia">Ismailia</placeName> early in the morning – were called at
             4:30 – but it was after 6 before we got off in the tender. Our 3 nice English boys who
             sat at table with us were up to see us off – as well as the Doctor and with no regrets
-            I looked my last at the Oriental as she steamed away to Suez. We had breakfast and a
+            I looked my last at the Oriental as she steamed away to <placeName ref="#Suez">Suez</placeName>. We had breakfast and a
             drive at <placeName ref="#Ismailia">Ismailia</placeName> and took the train at 1 o’clock arriving here at 5:30. Found <persName ref="#Salah_Mohammed">Mohammed</persName>
             waiting for us and gladly took possession of our pleasant rooms here. The next morning
             we drove over on the other ide of the river to inspect several dahabeahs and at last
@@ -212,23 +212,23 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             
             <div xml:id="EBA18941226" type="Entry">
             <p><title>Wednesday, Dec. 26 </title></p>
-            <p>We came on board the Herodotus on the 23d Sunday morning – a strong south wind had been blowing for
+            <p>We came on board the <name type="boat">Herodotus</name> on the 23d Sunday morning – a strong south wind had been blowing for
             days – but everything had been <pb n="11"/> ready for us for some time. I was tired of the hotel and
             we hope the south wind would soon be discouraged. But on Monday it holding as strong as
             ever, we pulled about half a mile away along the bank – and the next day Xmas, we pulled
-            over to Ghizeh, and lay opposite the Museum about in the place we lay for a week on
+            over to <placeName ref="#Giza">Ghizeh</placeName>, and lay opposite the Museum about in the place we lay for a week on
             coming down the river last time. Theodore and Nettie rode out on donkeys to visit the
             Museum – but I am still condemned to indoors because this south wind is so strong and so
-            cold. Mr. Bronson and her daughter came over again to see us and have tea. Dr. Sandwith
+            cold. <persName ref="#Bronson_Mrs">Mrs. Bronson</persName> and her daughter came over again to see us and have tea. Dr. Sandwith
             came to see me the first day on board, and brought two leaves and a fruit of the Pawpaw
-            tree – from which the Papoid tablets are made, that Theodore relies on so entirely. It
+            tree – from which the Papoid tablets are made, that <persName ref="#Davis_Theodore">Theodore</persName> relies on so entirely. It
             is an Indian tree, and he says the native claim that if touch meat is wrapped in its
             leaves, it will become tender, but if left too long, putrid, and that the leaves are
             used in India for cooking with food to make it digestible. The fruit is not unlike our
             Ohio Pawpaw tree – but the leaf entirely unlike. I must look into the matter when I get
             home. Have been very busy getting settled. The boat looks greatly improved – and we have
-            such a lot of room. I have taken Howard’s old room for my dressing room, and Nettie,
-            Fielding’s old room for her dressing room – and the stern room makes a charming sitting
+            such a lot of room. I have taken <persName ref="#Howard">Howard’s</persName> old room for my dressing room, and <persName ref="Buttles_Jeanette">Nettie</persName>,
+            <persName ref="#Fielding_Mr">Fielding’s</persName> old room for her dressing room – and the stern room makes a charming sitting
             room. Our new cook proves a great success. There seems no end to the variety of his
             things – and we were amazed the first morning at breakfast to have the most delicious
             waffles sent in to us. We had a quiet little Xmas – giving the men the present we had
@@ -240,9 +240,9 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18941230" type="Entry">
             <p><title>Sunday after Christmas. Dec. 30 </title></p>
             <p>The south wind has held the whole week – and I have felt
-            most impatient – Theodore and Jones go into Cairo every day – there is always some last
+            most impatient – <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="Jones_Daniel">Jones</persName> go into <placeName ref="#Cairo">Cairo</placeName> every day – there is always some last
             thing to be bought. We left our landing this afternoon and pulled along a little way
-            opposite the town of Ghizeh – why I do not know. </p>
+            opposite the town of <placeName ref="#Giza">Ghizeh</placeName> – why I do not know. </p>
             </div>
             
             <div xml:id="EBA18950101" type="Entry">
@@ -260,7 +260,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             
             <div xml:id="EBA18950102" type="Entry">
             <p><title>Wednesday. Jan. 2. </title></p>
-            <p>Tracked and polled against the wind until we reached Wasta – <pb n="13"/> 56 miles from Cairo. The pyramid of Meydoum
+            <p>Tracked and polled against the wind until we reached <placeName ref="#Wasta">Wasta</placeName> – <pb n="13"/> 56 miles from <placeName ref="#Cairo">Cairo</placeName>. The pyramid of <placeName ref="#Meidum">Meydoum</placeName>
             has been before us for 2 days - quite splendid – made 4 to 5 miles. </p>
             </div>
             
