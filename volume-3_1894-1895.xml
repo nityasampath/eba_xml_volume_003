@@ -276,20 +276,20 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             
             <div xml:id="EBA18950105" type="Entry">
             <p><title>Saturday. Jan. 5. </title></p>
-            <p>Nettie and I have just had a discussion as to whether this was or was
+            <p><persName ref="Buttles_Jeanette">Nettie</persName> and I have just had a discussion as to whether this was or was
             not Saturday. It gives on such a strange, lost feeling to be uncertain as to the days,
             with no immediate authority to appeal to. We have had rather a cold day – with fitful
-            winds – we have done a good deal of slow sailing - have passed Benisoef - and are now at
-            9:30pm within a short distance of Hibeh – we may have made about 10 miles. In the midst
-            of a good turn of wind, we had to pull up at Benisoef, for a sailor who had been
+            winds – we have done a good deal of slow sailing - have passed <placeName ref="#Benisoef">Benisoef</placeName> - and are now at
+            9:30pm within a short distance of <placeName ref="#Hibeh">Hibeh</placeName> – we may have made about 10 miles. In the midst
+            of a good turn of wind, we had to pull up at <placeName ref="#Benisoef">Benisoef</placeName>, for a sailor who had been
             despatched early this morning to that town to buy some fruit and vegetables. It was
-            rather vexatious – our nice big Moussa set off at once across the fields to look for the
-            man and hurry him. Jones took his gun and disappeared. Then Nettie and I walked up <pb n="14"/> and
+            rather vexatious – our nice big <persName ref="#Moussa">Moussa</persName> set off at once across the fields to look for the
+            man and hurry him. <persName ref="Jones_Daniel">Jones</persName> took his gun and disappeared. Then <persName ref="Buttles_Jeanette">Nettie</persName> and I walked up <pb n="14"/> and
             down the hard sand inhaling the delicious air, and staring across the fields to see
-            Benisoef lying back some distance on a canal amongst its palms – a large, important town
+            <placeName ref="#Benisoef">Benisoef</placeName> lying back some distance on a canal amongst its palms – a large, important town
             – then the sailor appeared with is well laden basket on his head; and as the wind blew
-            strongly, a sailor was sent off in haste to look for Jones – Hasan to find Theodore –
-            and Mohammed flew towards the town to find Moussa – and at last they all were hauled in
+            strongly, a sailor was sent off in haste to look for <persName ref="Jones_Daniel">Jones</persName> – <persName ref="#Hassan">Hasan</persName> to find <persName ref="#Davis_Theodore">Theodore</persName> –
+            and <persName ref="#Salah_Mohammed">Mohammed</persName> flew towards the town to find <persName ref="#Moussa">Moussa</persName> – and at last they all were hauled in
             and were off. The night is magically lovely. </p>
             </div>
             
@@ -303,20 +303,20 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18950107" type="Entry">
             <p><title>Monday. Jan 7. </title></p>
             <p>A dead calm with the exception of a few moments of fair wind this morning – made 4 miles by tracking – and
-            are now lying at Fashen. Theodore and Nettie walked into the town and posted some
+            are now lying at <placeName ref ="#Fashen">Fashen</placeName>. <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="Buttles_Jeanette">Nettie</persName> walked into the town and posted some
             letters. </p>
             </div>
             
             <div xml:id="EBA18950108" type="Entry">
             <p><title>Tuesday. Jan. 8. </title></p>
-            <p>Occasional light winds and with polling and tracking made about 12 miles. Passed Haghagah. </p>
+            <p>Occasional light winds and with polling and tracking made about 12 miles. Passed <placeName ref="#Haghagah">Haghagah</placeName>. </p>
             </div>
             
             <div xml:id="EBA18950109" type="Entry">
             <p><title>Wednesday. Jan. 9. </title></p>
             <p>Good head wind until 11 o’clock am -
             the middle of the day <pb n="15"/> very still and hot – light wind later – sailed until 8pm and made
-            18 miles. Stella near us for 4 days. </p>
+            18 miles. <name type="boat">Stella</name> near us for 4 days. </p>
             </div>
             
             <div xml:id="EBA18950101" type="Entry">
@@ -324,7 +324,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p>It was very hot and calm this
             morning- under a light south wind we have made in the afternoon 2 miles – about 6 we
             tied up for the night, both awnings were spread – and every one settled down to stay for
-            the night – but about 9, as Theodore and I had finished our game of cribbage, a strong
+            the night – but about 9, as <persName ref="#Davis_Theodore">Theodore</persName> and I had finished our game of cribbage, a strong
             north wind began. The Captain waited awhile to see if it had come to stay – then the
             awnings went down, and the stake came up, and we have been bounding along ever since – I
             do not think it will be a good night to sleep. </p>
@@ -335,7 +335,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p>It wasn’t a good night to sleep – what with the shifting of the sails, the orders – the running backwards and
             forwards on the deck above me, it was quite impossible – at 1 o’clock, I got up, lighted
             my candle and prowled into the saloon, and found some biscuit and a glass of port wine.
-            We reached Minyeh at 2 o’clock. On our first journey up the Nile we reached Minyeh the
+            We reached Minyeh at 2 o’clock. On our first journey up the <g>Nile we reached Minyeh the
             2d day – on our last the 7th day. We were obliged to stop as we had ordered our mail
             sent there, and some fresh butter from the Swiss Dairy at Cairo. Jones went off with old
             Moussa to the town, coming back with a big parcel of letters and papers. Then we got
