@@ -1304,7 +1304,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <persName ref="#Davis_Theodore">Theodore</persName> began piling up various little heaps of gold, intended for baksheesh for every
             body. The first Captain, <persName ref="#Mohammed_Rais">Reis Mohammed</persName> got six 
             pounds – our favorite <persName ref="#Fuli_Rais">Reis Fule</persName>, 2 –
-            Capt. Got 4 pounds – the cook Salim 10 pounds – and each sailor 1 pound. This baksheesh
+            Capt. Got 4 pounds – the cook <persName ref="#Selim">Salim</persName> 10 pounds – and each sailor 1 pound. This baksheesh
             business is always an uncertain affair – depending entirely on the generosity of the
             person who hires the dahabeah – and has nothing whatever to do with the regular wages of
             the men. There is always great expectancy on their part, and very often no doubt, great
@@ -1321,25 +1321,25 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             furious gale, and making it impossible to put to sea. We left <placeName ref="#Cairo">Cairo</placeName> yesterday afternoon
             at 4 o’clock – and spent last night at the Khedivial Hotel. We had six days in <placeName ref="#Cairo">Cairo</placeName>,
             which we used to the best advantage we could. I went over to the Bazaar once – and once
-            again to the Museum, where I saw the 9 wonderful statues of one of the Usertesens, found
-            at Lisht, and the beautiful statue in basalt of Osiris, found at Medinet Habou. One
+            again to the Museum, where I saw the 9 wonderful statues of one of the <persName ref="#Usertesen">Usertesens</persName>, found
+            at <placeName ref="#Lisht">Lisht</placeName>, and the beautiful statue in basalt of <persName ref="#Osiris">Osiris</persName>, found at <placeName ref="#Medinet_Habou">Medinet Habou</placeName>. One
             afternoon <persName ref="#Davis_Theodore">Theodore</persName> and I drove to the Gezireh Hotel which I had not seen, and called on
             the <name type="boat">Isis</name> people. It is quite magnificent – there can be no other quite so splendid – as
-            it was the favorite palace of the old Ismail Pacha, who was buried the other day in
+            it was the favorite palace of the old <persName ref="#Ismail_Pasha">Ismail Pacha</persName>, who was buried the other day in
             <placeName ref="#Cairo">Cairo</placeName>. On this palace he lavished millions – and I can well believe it. The extensive
             grounds are very beautiful and highly cultivated. We walked around to the Casino, and
             had tea on the terrace, where there was a gay throng of every nationality. The air was
             full of the fragrance of orange blossoms. I had one other little drive one afternoon,
             but that was all, as the wind blew violently every day, and the dust was omnipresent.
-            <persName ref="#Parsons_Mary">Mary Parsons</persName> and the three ladies she was travelling with (among them Miss Gifford, aunt
-            of Edie Gifford of Milwaukie, and a very sweet attractive woman) were at Shepheards, and
+            <persName ref="#Parsons_Mary">Mary Parsons</persName> and the three ladies she was travelling with (among them <persName ref="Gifford_Miss">Miss Gifford</persName>, aunt
+            of <persName ref="Gifford_Edie">Edie Gifford of Milwaukie</persName>, and a very sweet attractive woman) were at Shepheards, and
             on their way to <country ref="#Syria">Syria</country>.  <persName ref="#Parsons_Mary">Mary</persName> <pb n="57"/> was so unwell, and unfit for uncertain Syrian travel, that
             it was thought best she should join our party and return home with us – which to our
             great pleasure she did. We used to spend hours at the carpet bazaar of Madjar’s next the
             hotel – a most curious, delightful and original little old goose it has ever been my
             pleasure to meet. <persName ref="#Davis_Theodore">Theodore</persName> bought some lovely things of him, and the bargaining between
             the two, used to be a thing to hear. Much of our time was spent in the effort to arrange
-            a method of studying English for our 2 faithful Mahommedan boys, Mahomet and <persName ref="#Hassan">Hassan</persName> –
+            a method of studying English for our 2 faithful Mahommedan boys, <persName ref="#Salah_Mohammed">Mahomet<persName> and <persName ref="#Hasan">Hassan</persName> –
             and an arrangement was finally made with the head of the American Mission School, to
             provide them with a private tutor for one hour each day, a shilling an hour – for, as
             they know nothing of study or application it would be impossible for them to go into a
@@ -1353,8 +1353,8 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             received the money from <persName ref="#Davis_Theodore">Theodore</persName>, with exact written directions, and kindly offered to
             give it to the boy on their monthly application – so that we left them in very good
             shape. <persName ref="#Ware_Dr">Dr. Ware</persName> came to luncheon on our last day, and all the <name type="boat">Isis</name> people to tea the
-            afternoon before. Mahomet <pb n="58"/> and <persName ref="#Hassan">Hassan</persName> were with us most of the time, and at the station
-            we found Abbecatio and old Selim – and the last thing we saw as the train moved off, was
+            afternoon before. <persName ref="#Salah_Mohammed">Mahomet<persName> <pb n="58"/> and <persName ref="#Hassan">Hassan</persName> were with us most of the time, and at the station
+            we found <persName ref="#Abbecatio">Abbecatio</persName> and old <persName ref="#Selim">Selim<persName> – and the last thing we saw as the train moved off, was
             our 2 poor boys looking bereft and distressed. We are rather pleased with the look of
             this boat – but have always avoided this line, it was a necessity however, as we could
             not get into any other boat sailing about this time. </p>
@@ -1369,7 +1369,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             a buoy – a small boat with 6 men was sent out to him in the heavy sea, and was capsized,
             and had it not been for 2 pilot boats in the neighborhood, who went to their assistance,
             all the 7 could have been lost. It was more than 3 hours before we got them on board,
-            during which time we lay at anchor, tossing and rolling. The Singapore proved to be very
+            during which time we lay at anchor, tossing and rolling. The <name type="boat">Singapore</name> proved to be very
             slow, very dirty – badly officered – bad food – and a noisy lot of Germans and Italians
             – and I thought the days and particularly, the nights would never end. On the first of
             April we arrived at <placeName ref="#Messina">Messina</placeName>, where we stayed 12 hours. We went ashore and drove about
@@ -1379,24 +1379,24 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             Grand Hotel, which <pb n="59"/> we found overflowing with people – and were obliged to go up to the
             Wet End where we got very pleasant rooms. But the weather was cold, wind high, and a
             thick atmosphere – and Vesuvius quite invisible. I was not well during the night, and
-            the next morning when Jone appeared from the Singapore, saying she would not leave until
-            sometime in the night, and would take 24 hours to Leghorn, where we had expected to
+            the next morning when Jone appeared from the <name type="boat">Singapore</name>, saying she would not leave until
+            sometime in the night, and would take 24 hours to <placeName ref="#Leghorn">Leghorn</placeName>, where we had expected to
             leave her, we held solemn council and decided to go directly by rail to <placeName ref="#Florence">Florence</placeName>. So
             <persName ref="#Jones_Daniel">Jones</persName> was sent back to the boat to pack and bring away our trunks, and <persName ref="#Davis_Theodore">Theodore</persName> went off
-            to secure a compartment in the night train to Rome, and the Dr. was sent for to see me
+            to secure a compartment in the night train to <placeName ref="#Rome">Rome</placeName>, and the Dr. was sent for to see me
             and say if I was fit to start, and the upshot of the whole thing was, that we had a very
             comfortable night on the train arriving in Rome at 6:30am. We drove to the Quirinal
             Hotel o short a distance off, and had a good wash, followed by a delicious breakfast in
             the restaurant, and were off to <placeName ref="#Florence">Florence</placeName> at 8:30 – reaching there at 2:30. The town is
             very, very full – and we had some difficulty about the number of our rooms – but are not
-            quite pleasantly settled. Yesterday morning <persName ref="#Davis_Theodore">Theodore</persName>, Mary and I went to the Uffizzi –
-            <persName ref="#Buttles_Jeanette">Nettie</persName> not being well enough to go with us. Dr. Baldwin and Mr. Berenson came to tea
-            yesterday in the afternoon – and directly after lunch today <persName ref="#Davis_Theodore">Theodore</persName>, Mary and I drove
+            quite pleasantly settled. Yesterday morning <persName ref="#Davis_Theodore">Theodore</persName>, <persName ref="#Parsons_Mary">Mary</persName> and I went to the Uffizzi –
+            <persName ref="#Buttles_Jeanette">Nettie</persName> not being well enough to go with us. <persName ref="#Baldwin_Dr">Dr. Baldwin</persName> and <persName ref="#Berenson_Mr">Mr. Berenson</persName> came to tea
+            yesterday in the afternoon – and directly after lunch today <persName ref="#Davis_Theodore">Theodore</persName>, <persName ref="#Parsons_Mary">Mary</persName> and I drove
             to Fiesole, and out over the Mts. <persName ref="#Davis_Theodore">Theodore</persName> went off by himself this morning to the Pitti
-            – Mary to church – and I stayed home with <persName ref="#Buttles_Jeanette">Nettie</persName>, who though better is still weak – but
-            there is now no danger of any fever, as we feared at first there might be. The Quincy
-            Shaws of Boston, with Mrs. Louis Agassiz are in this hotel, and Miss Shaw and Mrs.
-            Agassiz came to <pb n="60"/> tea yesterday afternoon. We met the Bronsons yesterday driving – and
+            – <persName ref="#Parsons_Mary">Mary</persName> to church – and I stayed home with <persName ref="#Buttles_Jeanette">Nettie</persName>, who though better is still weak – but
+            there is now no danger of any fever, as we feared at first there might be. The <persName ref="#Shaw_Quincy">Quincy
+            Shaws of Boston</persName>, with <persName ref="#Agassiz_Louis">Mrs. Louis Agassiz</persName> are in this hotel, and <persName ref="#Shaw_Miss">Miss Shaw</persName> and <persName ref="#Agassiz_Mrs">Mrs.
+            Agassiz</persName> came to <pb n="60"/> tea yesterday afternoon. We met the <persName ref="#Bronson_Mr_Mrs">Bronsons</persName> yesterday driving – and
             Mrs. B. called today. </p>
             </div>
             
@@ -1405,30 +1405,30 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p>We are all ready to leave this delicious
             <placeName ref="#Florence">Florence</placeName> tomorrow – though we do it very unwillingly – but our time is short, and
             beautiful and interesting things so crowd upon one here, that choice is difficult. We
-            have arranged a little driving tour with Mr. Berenson who will go with us – and will
+            have arranged a little driving tour with <persName ref="#Berenson_Mr">Mr. Berenson</persName> who will go with us – and will
             start tomorrow for Sienna. The Dr. thinks <persName ref="#Buttles_Jeanette">Nettie</persName> can now safely venture. We have had
             some delicious drives and walks – and visits to galleries and churches. Among the things
-            I had never before seen were the frescoes by Benozzo Gozzoli in the chapel of the
+            I had never before seen were the frescoes by <persName ref="#Gozzoli_Benozzo">Benozzo Gozzoli</persName> in the chapel of the
             Riccardi palace – which I knew and admired greatly from my photographs of them – that
             the dark, irregularly shaped little chapel was a surprising disappointment to me –
-            though the frescoes were not. One afternoon Mr. Berenson took us to see the new
-            Boticelli which has lately been discovered in the Pitti palace. It seems that an old
+            though the frescoes were not. One afternoon <persName ref="#Berenson_Mr">Mr. Berenson</persName> took us to see the new
+            <persName ref="#Boticelli">Boticelli</persName> which has lately been discovered in the Pitti palace. It seems that an old
             gentleman who knew all about pictures, went one day to call on the Duke of Aosta in his
             apartment at the Pitti and being left to cool his heels sometime in the antechamber,
-            noticed high up in a dark corner a picture which he thought in the Botticelli style and
+            noticed high up in a dark corner a picture which he thought in the <persName ref="#Boticelli">Boticelli</persName> style and
             knowing that a certain painting of his known once to have existed was now lost, he went
             to the director of the Museum and told him what he had seen. The result was that the
             picture was removed to one of the private rooms of the Uffizzi –and the world has found
             a new art treasure – though it was not the picture <pb n="61"/> that had been searched for so long –
-            and no one at the present time knew that Botticelli had painted such a picture as this.
-            It is a picture of a woman charmingly painted in Botticelli’s best manner, standing by a
-            centaur. Mr. Berenson has written a pamphlet on the subject, which I hope soon to see.
-            It is not yet exhibited to the public, and we saw it only through Mr. Berenson. We took
-            Mrs. Fearing with us – and she went with us to some of the galleries. There are so many
-            Americans in Florence at the moment. The Dan Fearings are at the Hotel de la Ville, near
+            and no one at the present time knew that <persName ref="#Boticelli">Boticelli</persName> had painted such a picture as this.
+            It is a picture of a woman charmingly painted in <persName ref="#Boticelli">Boticelli</persName>’s best manner, standing by a
+            centaur. <persName ref="#Berenson_Mr">Mr. Berenson</persName> has written a pamphlet on the subject, which I hope soon to see.
+            It is not yet exhibited to the public, and we saw it only through <persName ref="#Berenson_Mr">Mr. Berenson</persName>. We took
+            <persName ref="#Fearing_Mrs">Mrs. Fearing</persName> with us – and she went with us to some of the galleries. There are so many
+            Americans in <placeName ref="#Florence">Florence</placeName> at the moment. The <persName ref="#Fearing_Dan">Dan Fearings are at the Hotel de la Ville, near
             us. Today <persName ref="#Buttles_Jeanette">Nettie</persName> went out in the morning for a drive, and then again in the afternoon to
-            San Miniato, and went into the church for a few minutes. This morning I went to
-            Palotti’s with <persName ref="#Davis_Theodore">Theodore</persName>, where we met the Thatcher Adams and Mrs. Bronson. <persName ref="#Davis_Theodore">Theodore</persName>
+            <placeName ref="#San_Miniato">San Miniato</placeName>, and went into the church for a few minutes. This morning I went to
+            Palotti’s with <persName ref="#Davis_Theodore">Theodore</persName>, where we met the <persName ref="#Adams_Thatcher">Thatcher Adams</persName> and <persName ref="Bronson_Mrs">Mrs. Bronson</persName>. <persName ref="#Davis_Theodore">Theodore</persName>
             bought some lovely old Venetian brocade, and four charming cushions of green Genoa
             velvet. </p>
             </div>
