@@ -1437,7 +1437,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p><title>Saturday, April 13. </title></p>
             <p>We left Florence on Thursday morning soon after breakfast in
             two landaus – sending <persName ref="#Jones_Daniel">Jones</persName> with the heavy luggage by train – and stopping two hours
-            during the middle of the day for rest and lunch – reached Sienna by 6:30 – the distance
+            during the middle of the day for rest and lunch – reached <placeName ref="#Sienna">Sienna</placeName> by 6:30 – the distance
             being 40 miles. It was an enchanting drive – the day was perfect – the roads likewise –
             leading over the hills and down the hills, and along the valleys – the country very
             hilly, with strange abrupt little hills, almost every one crowned with a walled town, or
@@ -1452,15 +1452,15 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             palace and stands high above the valley with beautiful views, and our lofty rooms open
             on to a stone parapet overlooking the neighborhood to the wet – <persName ref="#Buttles_Jeanette">Nettie</persName> is again not well
             – and I have been staying at home with her all day – she got too tired I fear the other
-            day on her drive here. Yesterday we sallied out early under Berenson’s leadership, and
+            day on her drive here. Yesterday we sallied out early under <persName ref="#Berenson_Mr">Berenson’s</persName> leadership, and
             walked about the town, visiting the Palazzo Publico, the great town hall, built in the
             latter part of the 11th century. Close to it rises the slender campanile called Del
             Mangia – it stands in the square now called Vittorio Emanuele, and used to be the Piazza
             del Campo – it is strangely semicircular in form, and rising like an amphitheatre.
-            Dante, in his Purgatorio speaks of this piazza. The interior is very interesting – with
+            <persName ref="#Dante">Dante</persName>, in his Purgatorio speaks of this piazza. The interior is very interesting – with
             frescoes of the Siennese masters – a large one of the Virgin and child, with a canopy
             borne by saints, and opposite an equestrian portrait of a martial figure of Fogliani de
-            Ricci – by Simone Martini. In the Sala dei Nova, are frescoes by Ambrogio Lorenzetti
+            Ricci – by <persName ref="#Martini_Simone">Simone Martini</persName>. In the Sala dei Nova, are frescoes by Ambrogio Lorenzetti
             painted in 1337-39 – much <pb n="63"/> injured by dampness, but most quaint and interesting. Then we
             went to the Duomo, which was begun in the early part of the 13th century. It is built in
             courses of white and black marble, which at first give a very bizarre effect – but the
@@ -1475,8 +1475,8 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             at the Duomo, listening to a high mass – music not very good, but the whole scene was
             impressive. When we all became quite frozen we came away. It has been raining a little
             all day – and I have been indoors all the afternoon. At sunset last evening, <persName ref="#Davis_Theodore">Theodore</persName>,
-            Mary and I walked to the fortress as it is called, or the “Lizza” a beautiful promenade
-            with fine trees and shrubberies up the side of a former fortress built by Charles V, -
+            <persName ref="#Parsons_Mary">Mary</persName> and I walked to the fortress as it is called, or the “Lizza” a beautiful promenade
+            with fine trees and shrubberies up the side of a former fortress built by <persName ref="#Charles_V">Charles V</persName>, -
             giving charming views from its height over plain and mountains. </p>
             </div>
             
@@ -1485,23 +1485,23 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p>The rain of yesterday has given place to a cloudy cold day – and putting on our warmest
             wraps we went after breakfast to the Baptistry of the Duomo, which I called S. Giovanni,
             and forms a kind of crypt – though the front is open to the small piazza of S. Giovanni.
-            There is here the most wonderful marble font, with splendid bronze reliefs by Ghiberti
-            and J. della Quercia, and Donatello. There are <pb n="64"/> 2 especially beautiful bronzes by
-            Donatello at the corners of the reliefs – figures of Hope and Faith – the lines so grand
+            There is here the most wonderful marble font, with splendid bronze reliefs by <persName ref="#Ghiberti">Ghiberti</persName>
+            and <persName ref="#della_Quercia_Jacopo">J. della Quercia</persName>, and <persName ref="#Donatello">Donatello</persName>. There are <pb n="64"/> 2 especially beautiful bronzes by
+            <persName ref="#Donatello">Donatello</persName> at the corners of the reliefs – figures of Hope and Faith – the lines so grand
             – the pose so dignified and natural – and 3 delicious little bronze cherubs, quite
-            perfect – the beautiful marble work is by della Quercia. Then we went to the Opera del
+            perfect – the beautiful marble work is by <persName ref="#della_Quercia_Jacopo">della Quercia</persName>. Then we went to the Opera del
             Duomo, over the way and saw many wondrous things. Quite the most wonderful were the
-            paintings of Duccio di Buoninsegna an early Sienese painter of the 13th century. I have
+            paintings of <persName ref="#di_Buoninsegna_Duccio">Duccio di Buoninsegna</persName> an early Sienese painter of the 13th century. I have
             never before seen any of his works – and in the novelty of the surprise I am almost
             ready to declare they are the mot beautiful things I have ever seen – certainly I have
             never seen more exquisite, sweet, religious entiment. A large Madonna with child and
             saints, and 26 little pictures illustrating the life of Christ. Afterwards we went into
             the Duomo, where was a large congregation and a monk preaching in the most energetic
             manner. We walked about and then went into the small and rich capel of S. Giovanni – an
-            admirable Renaissance work – with a statue of John the Baptist in bronze by Donatello –
-            a font by Jacopo della Quercia – and small frescoes by Pintoricchio and Baldassare
-            Peruzzi – illustrative of the life of the Baptist. Then into the Library of the Duomo –
-            a magnificent vaulted room, with enormous frescoes by Pintoricchio – rather crude in
+            admirable Renaissance work – with a statue of John the Baptist in bronze by <persName ref="#Donatello">Donatello</persName> –
+            a font by <persName ref="#della_Quercia_Jacopo">Jacopo della Quercia</persName> – and small frescoes by <persName ref="#Pintoricchio">Pintoricchio</persName> and <persName ref="#Peruzzi_Baldassare">Baldassare
+            Peruzzi</persName> – illustrative of the life of the Baptist. Then into the Library of the Duomo –
+            a magnificent vaulted room, with enormous frescoes by <persName ref="#Pintoricchio">Pintoricchio</persName> – rather crude in
             colouring but fine in treatment and perspective – with a superb collection of old
             Missals, some of them with exquisite miniatures by Liberali da Verona. Then across the
             street to the hospital of S. Maria della Scala – just after we had entered the handsome
@@ -1518,8 +1518,8 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             morning by rail, and arrived a Chiusi at 1:30 where we stopped for an hour, and had an
             excellent lunch at the station. We found two carriages waiting for us which had been
             sent over by Mme. Beccafumi – and had an enchanting drive here which we reached at 7
-            o’clock. For an hour or two before reaching <placeName ref="#Perugia">Perugia</placeName>, our way lay around and by Lake
-            Thrasymene, giving most charming views, and grew more beautiful as we reached this
+            o’clock. For an hour or two before reaching <placeName ref="#Perugia">Perugia</placeName>, our way lay around and by <geogName ref="#Lake_Trasimeno">Lake
+            Thrasymene</geogName>, giving most charming views, and grew more beautiful as we reached this
             wonderful old town, lying so almost unapproachably on it mountain height – as we climbed
             backwards and forwards up to its great walls and fortresses, the sun was going down
             beyond the mountains above the great Umbrian plain and the cloud scenery was quite
@@ -1529,7 +1529,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             gardens and winding, climbing roads – with the wide plain far below – and range after
             range of mountain enclosing it – some of their peaks white with snow. Yesterday morning
             we went for a walk about the town – then to the Cathedral which is poor and
-            uninteresting, but in the sacristy of which is a large painting by Luca Signorelli – <pb n="66"/>
+            uninteresting, but in the sacristy of which is a large painting by <persName ref="#Signo">Luca Signorelli – <pb n="66"/>
             very lovely in tone and colour – with admirable figures. Then to the old Chamber of
             Commerce, where the walls are quite covered with paintings and decorations by Perugino –
             and the stalls and seats and panels are most beautifully carved and inlaid by Antonio
