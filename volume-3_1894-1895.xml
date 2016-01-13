@@ -154,7 +154,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             large family of sons and daughters, who were the servants of the house. The next morning
             after breakfast we drove back <pb n="8"/> to the station, uncertain whether the boat would come over
             from <placeName ref="#Gibraltar">Gib.</placeName> or if we would be obliged to go back for 2 stations on the R.R. and drive for
-            3 hours to Gib. Again <persName ref="#Johnson_Mr">Mr. Johnson</persName> came to our aid, and took us to his rooms, until we
+            3 hours to <placeName ref="#Gibraltar">Gib.</placeName>. Again <persName ref="#Johnson_Mr">Mr. Johnson</persName> came to our aid, and took us to his rooms, until we
             heard the boat was coming, where we sat for an hour – he and <persName ref="#Davis_Theodore">Theodore</persName> talking about
             building railways – and he showed us a huge book of photographs that he had taken of the
             road in its various phases – and told us of the special difficulties they encountered
@@ -177,7 +177,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             all had our rooms to ourselves. We made <country ref="#Malta">Malta</country> the evening of Friday jut at sunset and
             stopped some hour to coal – and arrived at <placeName ref="#Brindisi">Brindisi</placeName> Sunday morning. English mail – 900
             bags arrived at 10pm. But it rained most of the time and I could not be on deck. I was
-            immensely bored by the whole voyage – Wednesday afternoon we sighted the Damietta light
+            immensely bored by the whole voyage – Wednesday afternoon we sighted the <placeName ref="#Damietta">Damietta</placeName> light
             – and at 5 o’clock cat anchor at <placeName ref="#Port_Said">Port Said</placeName> where we lay until midnight coaling again.
             What a scene from the Inferno it was, those black figures in the glare of the torches!
             We were all packed and ready to land as <placeName ref="#Ismailia">Ismailia</placeName> early in the morning – were called at
@@ -220,7 +220,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             over to <placeName ref="#Giza">Ghizeh</placeName>, and lay opposite the Museum about in the place we lay for a week on
             coming down the river last time. <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Buttles_Jeanette">Nettie</persName> rode out on donkeys to visit the
             Museum – but I am still condemned to indoors because this south wind is so strong and so
-            cold. <persName ref="#Bronson_Mrs">Mrs. Bronson</persName> and her daughter came over again to see us and have tea. Dr. Sandwith
+            cold. <persName ref="#Bronson_Mrs">Mrs. Bronson</persName> and her daughter came over again to see us and have tea. <persName ref="#Sandwith_Dr">Dr. Sandwith</persName>
             came to see me the first day on board, and brought two leaves and a fruit of the Pawpaw
             tree – from which the Papoid tablets are made, that <persName ref="#Davis_Theodore">Theodore</persName> relies on so entirely. It
             is an Indian tree, and he says the native claim that if touch meat is wrapped in its
@@ -408,14 +408,14 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             
             <div xml:id="EBA18950114" type="Entry">
             <p><title>Monday. Jan. 14. </title></p>
-            <p>We are now lying at <placeName ref="#Assiout">Assiout</placeName> having
+            <p>We are now lying at <placeName ref="#Asyut">Assiout</placeName> having
             made 28 miles. I was on deck much of the day. Sometime before noon, we saw as usual the
-            minaret of <placeName ref="#Assiout">Assiout</placeName> – but as usual were a long time reaching the town – the river makes
+            minaret of <placeName ref="#Asyut">Assiout</placeName> – but as usual were a long time reaching the town – the river makes
             such great bends below – that the distance is deluding. The wind grew very strong in the
             afternoon – too strong to make one of the great turns and we touched at the bank to let
             <persName ref="#Jones_Daniel">Jones</persName> and Ibraim go into the town for the mail and some necessary things. Our people all
             said the town was near – but poor <persName ref="#Jones_Daniel">Jones</persName> found he had a walk of 6 miles or more before
-            getting into <placeName ref="#Assiout">Assiout</placeName>. In the meantime we tracked and sailed and after dark, pulled up
+            getting into <placeName ref="#Asyut">Assiout</placeName>. In the meantime we tracked and sailed and after dark, pulled up
             opposite the light of the town, and sent our felucca over for the man – and now we are
             deluged with papers – American <pb n="19"/> and English – and we feel as if we must go through with
             them all. </p>
@@ -441,7 +441,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18950116" type="Entry">
             <p><title>Jan. 16. Wednesday. </title></p>
             <p>We pulled up to <placeName ref="#Girgeh">Girgeh</placeName> this evening about 7 o’clock – after
-            an uninterrupted sail from <placeName ref="#Assiout">Asiout</placeName> yesterday morning. All night long we bowled along
+            an uninterrupted sail from <placeName ref="#Asyut">Asiout</placeName> yesterday morning. All night long we bowled along
             steadily – and I dreamily wondered as I have wakened through the night, how weary the
             Reis and all the crew must be. The wind, grew very rough toward morning, and about 5:30
             we went bang upon a and bank with a great thump – and I did not sleep again – though we
@@ -566,7 +566,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             quiet – the whole earth wrapped in a white soft shroud of intense heat. We have had
             quite an unpleasant and very exciting experience this after-<pb n="25"/>noon. The men were tracking
             and we were slowly slipping past a high bank near the village of ed-Debayeh about 2
-            miles from Erment. <persName ref="#Davis_Theodore">Theodore</persName> was absorbed in a chess puzzle in the saloon – and I had got
+            miles from <placeName ref="#Erment">Erment</placeName>. <persName ref="#Davis_Theodore">Theodore</persName> was absorbed in a chess puzzle in the saloon – and I had got
             into my wrapper and was preparing for a good rest – when I heard loud voices and talking
             above – and so much stir that <persName ref="#Davis_Theodore">Theodore</persName> called up to <persName ref="#Buttles_Jeanette">Nettie</persName> who is always on deck to know
             what the trouble was – but he did not wait for an answer but seized a stout stick,
@@ -578,12 +578,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             me to climb, even with assistance – besides there was no one left on the boat but the 2
             cooks – nor could we see over the bank – but we heard a tremendous hubbub, shrieking and
             shouting and two report of the gun – and then I feared serious trouble. Then arrived my
-            <persName ref="#Salah_Mohammed">Mahommed</persName> and Ali, with a man in custody, whom they were kicking and beating furiously,
-            and whom they flung over the bank – he came headlong – and Ali slid down after him and
+            <persName ref="#Salah_Mohammed">Mahommed</persName> and <persName ref="#Ali">Ali</persName>, with a man in custody, whom they were kicking and beating furiously,
+            and whom they flung over the bank – he came headlong – and <persName ref="#Ali">Ali</persName> slid down after him and
             resumed his infuriated beating of him – my calling and cries were not heeded, and as
             Hasan appeared at the top with another man, whom he knocked over the bank and plunged
             after, beating him unmercifully, I flew down the companionway to <persName ref="#Selim">Selim</placeName>, the cook, and
-            told him to tell <persName ref="#Hassan">Hassan</persName> and Ali, that I would not suffer such conduct – that if the men
+            told him to tell <persName ref="#Hassan">Hassan</persName> and <persName ref="#Ali">Ali</persName>, that I would not suffer such conduct – that if the men
             were guilty the sheik of the village would <pb n="26"/> punish them, but they should not beat them.
             Then the men were brought on board as prisoners, and I told <persName ref="#Selim">Selim</placeName> to protect them from
             violence until we knew what the trouble was. A moment after the uproar grew nearer, and
@@ -596,7 +596,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             landing near Erment, as when we drew up there, we found two gens d’armes waiting for us.
             In the meantime when our men came back to the boat, it was found that the Captain had a
             cruel cut on his head, which was bleeding profusely, and <persName ref="#Moussa">Moussa</persName> looked as if he had been
-            nearly slaughtered – he head cut open in two places, looking very bad. Ibraim also had a
+            nearly slaughtered – he head cut open in two places, looking very bad. <persName ref="#Ibrahim">Ibraim</persName> also had a
             bad cut on his arm. They were all in a perfect rage – and it was all that <persName ref="#Buttles_Jeanette">Nettie</persName> and I
             and <persName ref="#Jones_Daniel">Jones</persName> could do, to keep them quiet enough to wash and dress their wound. When we had
             landed and the officers had come on board we had a solemn hearing, except when the
@@ -629,12 +629,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             see our men wounded, that they could not take a dispassionate view of it – and both
             <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Buttles_Jeanette">Nettie</persName> 
             thought me severe, when I said from the first that I thought we were
-            to blame. Our coleric old Reis, instead of entering a complaint with the Sheik of the
+            to blame. Our coleric old <persName ref="#Mohammed_Rais">Reis </persName>, instead of entering a complaint with the Sheik of the
             village, got into a temper with some of the people – and no one knows who struck the
             first blow, the mischievous children and boys who threw the mud, of course fell as it so
             often does in this world, on the innocent. The two prisoner, maltreated as they were,
             were not offenders so far as we could learn. It was very comical to reflect, that every
-            able bodied man, headed by the Reis, made off to the Reis, made off to the fray, leaving
+            able bodied man, headed by the <persName ref="#Mohammed_Rais">Reis </persName>, made off to the <persName ref="#Mohammed_Rais">Reis </persName>, made off to the fray, leaving
             the beat, and we two unprotected women to the care of the 2 cooks! It hardly answers to
             our idea of discipline on a ship! We came to <placeName ref="#Erment">Erment</placeName> and will stay all night – making 9
             miles. </p>
@@ -646,7 +646,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             about 5 o’clock. The <name type="boat">Columbia</name> which has been quite 
             in advance of us from <placeName ref="#Luxor">Luxor</placeName>, landed
             at <placeName ref="#Esneh">Esneh</placeName>, and the <name type="boat">Mansourah</name>, which passed us yesterday during the fracas, still holds
-            her own, ahead of us. We met her people in the garden at Erment, where everybody goes to
+            her own, ahead of us. We met her people in the garden at <placeName ref="#Erment">Erment</placeName>, where everybody goes to
             buy fruit and vegetables. We are lying 2 or 3 miles from <placeName ref="#El_Kab">El Kab</placeName> this evening. </p>
             </div>
             
@@ -656,7 +656,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p>A splendid run of today – 60 miles – steady, fine sailing all the time. Pased
             <placeName ref="#El_Kab">El Kab</placeName> – <placeName ref="#Edfou">Edfou</placeName> – <placeName ref="#Silsilis">Silsilis</placeName> just at sunset – so that we were able to see the grottos as we
             sailed by – such an interesting point of the river – the rocks coming down to the
-            narrowed river – the either side. We have been steadily gaining on the Mansourah all day
+            narrowed river – the either side. We have been steadily gaining on the <name type="boat">Mansourah</name> all day
             – until the race became very exciting as we draw near <placeName ref="#Kom_Ombo">Kom Ombo</placeName> – by a clever move, our
             old Reis cleverly took advantage of a manouvre on their part, and passed them, and soon
             we lost sight of them in the night. The moon is now radiant. We have passed <placeName ref="#Kom_Ombo">Kom Ombo</placeName>,
@@ -666,9 +666,9 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18950203" type="Entry">
             <p><title>Sunday. Feb. 3. Assouan. </title></p>
             <p>We dragged through the whole
-            day, arriving at Assouan when it was almost too dark to see that beautiful approach, a
+            day, arriving at <placeName ref="#Aswan">Assouan</placeName> when it was almost too dark to see that beautiful approach, a
             number of dahabeahs here – we are a little in advance of our former position at
-            Elephantine. The <name type="boat">Isis</name> is just opposite – and 
+            <placeName ref="Elephantine">Elephantine</placeName>. The <name type="boat">Isis</name> is just opposite – and 
             <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Buttles_Jeanette">Nettie</persName> have gone over to her,
             to see if her people are going up in their steamer to <placeName ref="#Wadi_Halfa">Wady Halfa</placeName>, as they expected to do
             tomorrow, when we saw them last. Such a radiant night. </p>
@@ -681,7 +681,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             always first or second – but <pb n="30"/> the little sand beach along the island of <placeName ref="#Elephantine">Elephantine</placeName> is
             very small – and grew to be very smelly. Now that so many dahabeahs go up the river this
             landing place should be under police supervision. There were so many steamers too, on
-            the <placeName ref="#Asouan">Asouan side</placeName>, and the river is so narrow here, that they seem very intrusive – and
+            the <placeName ref="#Aswan">Asouan side</placeName>, and the river is so narrow here, that they seem very intrusive – and
             the new Cook boats are so big and noisy – with their brilliant electric lights – they
             are a positive offence – and the cataract boats are now so many – and their crews so
             noisy – there was no peace – they were rowing up and down, until 12 o’clock at night –
@@ -699,7 +699,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             threw out both hands with an exclamation that was quite tragic, and with a cry of joy
             rushed forward to see me. Very little grown – the same sweet, appealing little fellow –
             he stuck closely by me all the time. Then we asked for “Dendowi” and he was shortly
-            produced – looking more like a small, brown reproduction of Queen Victoria than ever –
+            produced – looking more like a small, brown reproduction of <persName ref="#Victoria_Queen">Queen Victoria</persName> than ever –
             and with the same impertur-<pb n="31"/>bable dignity – <placeName ref="#Philae">Philae</placeName> seemed more lovely to me and
             interesting than ever – I suppose because its doom seems to have been pronounced. We
             could see on the walls of Pharaoh’s Bed – coloured wafers at a certain level – showing
@@ -719,13 +719,13 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             ascent. I have been once over to the town and the bazaar – and for a short sail one
             evening before dinner – all the rest of the time I have stayed on the boat – not daring
             to venture out in the heat of the day – or in the cool of the evening. I always think
-            one of the pleasantest things to do at <pb n="32"/> <placeName ref="#Assouan">Assouan</placeName> is to walk on the island of <placeName ref="#Elephantine">Elephantine</placeName> –
+            one of the pleasantest things to do at <pb n="32"/> <placeName ref="#Aswan">Assouan</placeName> is to walk on the island of <placeName ref="#Elephantine">Elephantine</placeName> –
             but I could not do this because of the heat. It is so densely clothed with palms and
             other trees that in this heat it harboured millions of mosquitos, which were quite
             annoying. The night with the full moon have been quite beautiful – and all of the time
-            we have the music of the same old croaking sakkish in our ears. The Scott-Elliots are
+            we have the music of the same old croaking sakkish in our ears. The <persName ref="#Scott_Elliot_Mr_Mrs">Scott-Elliots</persName> are
             expected down from <placeName ref="#Wadi_Halfa">Wady Half</placeName> tomorrow – but we shall not wait for them, but start early
-            for <placeName ref="#Kom_Ombos">Kom Ombos</placeName> – quite glad to get away from <placeName ref="#Assouan">Assouan</placeName>. </p>
+            for <placeName ref="#Kom_Ombos">Kom Ombos</placeName> – quite glad to get away from <placeName ref="#Aswan">Assouan</placeName>. </p>
             </div>
             
             <div xml:id="EBA18950211" type="Entry">
@@ -754,7 +754,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <persName ref="#Buttles_Jeanette">Nettie</persName> went up again this
             evening to see the moonlight effects. The <name type="boat">Columbia</name> has gone and 2 Cook steamers are here
             – but everything is very quiet, and the peace and pure air delicious after the noise and
-            smells of <placeName ref="#Assouan">Assouan</placeName>. </p>
+            smells of <placeName ref="#Aswan">Assouan</placeName>. </p>
             </div>
             
             <div xml:id="EBA18950213" type="Entry">
@@ -764,14 +764,14 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             early tomorrow to see the quarries on the other side of the river. I think them one of
             the most impressive sights of the <geogName ref="#Nile">Nile</geogName>. This morning, directly after breakfast we went
             up to the temple again, I took my camera, and made some views. The <name type="boat">Isis</name> came up last
-            evening – and is lying tonight close by us. They have all been over to see us and Dr.
-            Ware spent the evening with us. </p>
+            evening – and is lying tonight close by us. They have all been over to see us and <persName ref="#Ware_Dr">Dr.
+            Ware</persName> spent the evening with us. </p>
             </div>
             
             <div xml:id="EBA18950214" type="Entry">
             <p><title>Thursday. Feb. 14. Edfou </title></p>
             <p>We have had an intensely hot day – hotter than yesterday – and perfectly calm (thermometer on deck in shade 86°) – so
-            that we dropped down easily to <placeName ref="Edfou">Edfou</placeName> – starting at 8:30 this morning, and reaching Edfou
+            that we dropped down easily to <placeName ref="Edfou">Edfou</placeName> – starting at 8:30 this morning, and reaching <placeName ref="Edfou">Edfou</placeName>
             at 4 o’clock, making 26 miles. We waited awhile, as <pb n="34"/> it was too much to go out into the
             fiery furnace of the afternoon. The <name type="boat">Isis</name> was before us, as she started earlier than we
             did – and we found them all at the temple having tea, which they had taken with them.
@@ -865,7 +865,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             chimneys of <placeName ref="#Erment">Erment</placeName>, and at 3:30 we were tied to the bank above the Castle – the <name type="boat">Isis</name>
             being just around the corner on the other side. We are lying at a very pretty bank –
             full of the blossoming hummis, a kind of pea – with trees at the top – and a lovely view
-            of the broad river with the yellow desert and the mountains of the <pb n="38"/> Tombs of the Kings –
+            of the broad river with the yellow desert and the mountains of the <pb n="38"/> <placeName ref="#Tomb_of_the_Kings">Tombs of the Kings</placeName> –
             and all that great ancient Necropolis. The <name type="boat">Ammon Ra</name>, Cooks dahabeah, with the English
             people with the daughter ill with typhoid fever, which we left here, is now moored on
             the opposite side of the river, with quarantine flags on either side of her. She has now
@@ -930,12 +930,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p>Home all day yesterday – quite used up with my expedition of yesterday. The <persName ref="#Scott-Elliot_Miss">Misses Scott-Elliot</persName> came to breakfast with
             <persName ref="#Ware_Dr">Dr. Ware</persName> – and after <persName ref="#Buttles_Jeanette">Nettie</persName> went for the whole day at <placeName ref="#Karnac">Karnac</placeName> – <persName ref="#Davis_Theodore">Theodore</persName> and I took <persName ref="#Ware_Dr">Dr.
             Ware</persName> for an inspection of that certain crossing of the island to the <placeName ref="#Tomb_of_the_Kings">Tombs of the Kings</placeName>,
-            and afterwards met <persName ref="#Scott-Elliot_Mr_Mrs">Miss and Mr. Scott-Elliot</placeName> and her brother and visited the <placeName ref="#Luxor">Luxor</placeName>
+            and afterwards met <persName ref="#Scott_Elliot_Mr_Mrs">Miss and Mr. Scott-Elliot</placeName> and her brother and visited the <placeName ref="#Luxor">Luxor</placeName>
             temple – there are now no workman there – all excavation having been stopped until the
             mosque and another part of the town can be bought and taken down. It is tantalizing to
             see a beautiful colossal face looking out from the accumulation of ages, under one of
             the houses. Afterwards I went into the <placeName ref="#Luxor">Luxor</placeName> hotel grounds, and <pb n="41"/> came across <persName ref="#Davis_Theodore">Theodore</persName>,
-            <persName ref="#Ware_Dr">Dr. Ware</persName> and <placeName ref="#Scott-Elliot_">Mr. Scott-Elliot</placeName> all partaking of lemonade in the big bar room, and I was
+            <persName ref="#Ware_Dr">Dr. Ware</persName> and <placeName ref="#Scott_Elliot_">Mr. Scott-Elliot</placeName> all partaking of lemonade in the big bar room, and I was
             at once asked to join them, which I did, finding the lemonade uncommonly nasty, and
             reminding me of that we used to have in our childish feasts, the delight of which was
             that we made it ourselves. After tea in the afternoon, <persName ref="#Davis_Theodore">Theodore</persName> and I went for a ride
@@ -1094,7 +1094,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             
             <div xml:id="EBA18950304" type="Entry">
             <p><title>Monday. March 4. </title></p>
-            <p>We have made a splendid run of 64 miles today – and are now lying about 4 miles from <placeName ref="#Assiout">Assiout</placeName> – have
+            <p>We have made a splendid run of 64 miles today – and are now lying about 4 miles from <placeName ref="#Asyut">Assiout</placeName> – have
             passed <placeName ref="#Tahtah">Tahtah</placeName> – <placeName ref="#Gaou">Gaou</placeName> and <placeName ref="#Aboutig">Aboutig</placeName>. The morning was exquisite – I went on deck immediately
             after breakfast – and was there most of the day. Nothing could be more lovely than that
             morning effects – the cliffs a pink yellow, with heliotrope shadows sleeping in their
@@ -1105,7 +1105,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18950305" type="Entry">
             <p><title>Tuesday. March 5. </title></p>
             <p>We were at <placeName ref="#Asyut">Assiout</placeName> early – and landed for our mail, and some provisions. Met all the <name type="boat">Isis</name> people
-            in the bazaar – nothing seemed nice in <placeName ref="#Assiout">Assiout</placeName> today – but the smell of orange blossoms
+            in the bazaar – nothing seemed nice in <placeName ref="#Asyut">Assiout</placeName> today – but the smell of orange blossoms
             as we passed the big garden – and we were glad to be back on the boat again. We are at
             <placeName ref="#Manfalout">Manfalout</placeName> – and have made 26 miles. The day intensely hot – 84 in the saloon early this
             afternoon – I went out so early, that I did not superintend the closing of the windows –
@@ -1585,7 +1585,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             altogether interesting old basilica of the year 1000. Last night it rained as the femme
             de chamber expressed it “terriblement” - and all this morning the clouds hung about the
             valley and trailed along the mountain sides. But we ordered luncheon early, and
-            determined to drive to Assisi – but at the last moment my courage failed, and then
+            determined to drive to <placeName ref="#Assisi">Assisi</placeName> – but at the last moment my courage failed, and then
             <persName ref="#Buttles_Jeanette">Nettie’s</persName>, and so we stayed at home, and were busy all the afternoon at one window or
             another watching the wonderful cloud effects, and the great marshaling of light and
             shade across the plain. The carriage came back about 7 o’clock with our poor people
@@ -1597,7 +1597,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p><title>Hotel Cavour. Milan. April 23. <title><p>
             <p>We left <placeName ref="#Perugia">Perugia</placeName> Sunday morning – the weather having cleared perfectly, giving us perfect views – changed
             cars at <placeName ref="#Tarantalo">Tarantalo</placeName> – and <pb n="69"/> got an excellent compartment to ourelves quite through to
-            <placeName ref="#Bologne">Bologne</placeName> – the views as we crowned the Appenines on that bright day were fine – went to
+            <placeName ref="#Bologne">Bologne</placeName> – the views as we crowned the <geogName ref="#Appenines">Appenines</geogName> on that bright day were fine – went to
             the Hotel Brun, where we stayed 9 years ago, and had the same apartment – grand but very
             gloomy. The next morning we went to the Belli Arti and saw some lovely Francias –
             Timeoteo Vitete “Magdalen”, <persName ref="#Raphael">Raphael’s</persName>’s St. Cecilia – a lovely Madonna by <persName ref="#Cima">Cima</persName>. We spent
@@ -1668,8 +1668,8 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             clear and for the first time we saw the wide view from the upper town – we took a drive
             around the castle and were home in time for a hurried lunch, and off for the station,
             where we had to say a reluctant goodbye to <persName ref="#Berenson_Mr">Berenson<persName>, who had to go to <placeName ref="#Venice">Venice<placeName> to join
-            <persName ref="#Gardiner_Jack_Mrs">Mrs. Jack Gardiner</persName> for a day or two. We got back to <placeName ref="#Milan">Milan</placeName> at 2:30 and <persName ref="#Buttles_Jeanette">Nettie</persName>, Mary and I
-            drove from the station to the Brera, where <persName ref="#Davis_Theodore">Theodore</persName> afterwards joined us – and
+            <persName ref="#Gardiner_Jack_Mrs">Mrs. Jack Gardiner</persName> for a day or two. We got back to <placeName ref="#Milan">Milan</placeName> at 2:30 and <persName ref="#Buttles_Jeanette">Nettie</persName>, <perName ref="#Parsons_Mary">Mary</persName> and I
+            drove from the station to the <placeName ref="#Brera">Brera</placeName>, where <persName ref="#Davis_Theodore">Theodore</persName> afterwards joined us – and
             afterwards he and I went to the private house where he had seen two little Dutch
             pictures for sale, and after having another look at them decided to telegraph <persName ref="#Berenson_Mr">Berenson<persName>
             to buy them for him. We are all ready for our journey to <placeName ref="#Lucerne">Lucerne</placeName> tomorrow. </p> 1894 – 1895 1
