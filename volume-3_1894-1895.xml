@@ -1503,7 +1503,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             Peruzzi</persName> – illustrative of the life of the Baptist. Then into the Library of the Duomo –
             a magnificent vaulted room, with enormous frescoes by <persName ref="#Pintoricchio">Pintoricchio</persName> – rather crude in
             colouring but fine in treatment and perspective – with a superb collection of old
-            Missals, some of them with exquisite miniatures by Liberali da Verona. Then across the
+            Missals, some of them with exquisite miniatures by <persName ref="#da_Verona_Liberali">Liberali da Verona</persName>. Then across the
             street to the hospital of S. Maria della Scala – just after we had entered the handsome
             entrance hall a large company of the brothers of the Misericordia came in bearning a
             bier like stretcher with a sick person on it – and as they formed <pb n="65"/> in line and waited,
@@ -1515,7 +1515,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p><title>Perugia. April 18. <lb/>
             Thursday – Grand Hotel </title></p>
             <p>We made rather an early start on Tuesday
-            morning by rail, and arrived a Chiusi at 1:30 where we stopped for an hour, and had an
+            morning by rail, and arrived at <placeName ref="#Chiusi">Chiusi</placeName> at 1:30 where we stopped for an hour, and had an
             excellent lunch at the station. We found two carriages waiting for us which had been
             sent over by Mme. Beccafumi – and had an enchanting drive here which we reached at 7
             o’clock. For an hour or two before reaching <placeName ref="#Perugia">Perugia</placeName>, our way lay around and by <geogName ref="#Lake_Trasimeno">Lake
@@ -1531,24 +1531,24 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             we went for a walk about the town – then to the Cathedral which is poor and
             uninteresting, but in the sacristy of which is a large painting by <persName ref="#Signo">Luca Signorelli – <pb n="66"/>
             very lovely in tone and colour – with admirable figures. Then to the old Chamber of
-            Commerce, where the walls are quite covered with paintings and decorations by Perugino –
+            Commerce, where the walls are quite covered with paintings and decorations by <persName ref="#Perugino">Perugino</persName> –
             and the stalls and seats and panels are most beautifully carved and inlaid by Antonio
             Mercalello – the designs being quite exquisite. Then we climbed flight after flight of
             stone steps until we came to the top of the Palazzo Publico, where is the gallery of
             paintings – principally of the Umbrian school. Strange, quaint things most of them were
             – gathered in from churches and monasteries. In spite of their archaicisms many of them
             truly charming in sentiment and colouring – especially the “Adoration of the Magi” and
-            the Madonna with angels playing on instruments by Benedetto Bonfigli – whose works I
-            have never before seen – nor any of Giovanni Boccati da Camerino, who has a most
+            the Madonna with angels playing on instruments by <persName ref="#Bonfigli_Benedetto">Benedetto Bonfigli</persName> – whose works I
+            have never before seen – nor any of <persName ref="#da_Camerino_Giovanni_Boccatio">Giovanni Boccati da Camerino, who has a most
             delightful “Madonna col Bambine e Molti Angelic he cantano a altri Santi” – the choir of
             angels surround the Madonna’ throne in a semicircle leaning over a parapet – their
             golden heads and pink cheeks most charming, singing with all their might so that one
             almost hears their voice – little angels on either side the throne, one playing a harp –
             and the other dear a mandolin – above all a canopy of flowering trees. Now have I ever
-            seen or heard of Fiorenzo di Lorenzo whose four panels illustrating the miracles of S.
+            seen or heard of <persName ref="#di_Lorenzo_Fiorenzo">Fiorenzo di Lorenzo</persName> whose four panels illustrating the miracles of S.
             Bernadino are delightful in colour, action and sentiment – evidently painted from life
-            in the streets and squares of <placeName ref="#Perugia">Perugia</placeName>. There was an Annunciation by Piero della
-            Francesca, forming the upper part of a panel containing four saints, done evidently by
+            in the streets and squares of <placeName ref="#Perugia">Perugia</placeName>. There was an Annunciation by <persName ref="#della_Francesca_Piero">Piero della
+            Francesca</persName>, forming the upper part of a panel containing four saints, done evidently by
             other hands – figures in the Annunciation beautiful with fine architectural perspective.
             After <pb n="67"/> coming out these deadly cold galleries, the bright sun was quite blinding – and to
             put some warmth into us, we walked through the streets down to the old and picturesque
@@ -1557,18 +1557,18 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             we had climbed the stony street and reached our hotel I was almost dead with fatigue.
             Today the morning dawned dark and threatening, and it has gone on from bad to worse. We
             have all stayed indoors writing and grumbling. Among other letters <persName ref="#Davis_Theodore">Theodore</persName> wrote was
-            one to Everard Fielding, which was taken out with others late into the hall and laid on
-            the porters desk. Soon afterwards Basil Fielding came along, and seeing the letter
+            one to <persName ref="#Fielding_Everard">Everard Fielding</persName>, which was taken out with others late into the hall and laid on
+            the porters desk. Soon afterwards <persName ref="#Fielding_Basil">Basil Fielding</persName> came along, and seeing the letter
             addressed to his brother, went to the register to see who was likely to have written it
             – and seeing our names, sent in his card. We were delighted to see the pleasant boy
-            again, and persuaded him and his friend, a priest, Father Forbes, to have lunch with us
-            – and after a jolly lunch, and visit, they went out with Berenson to see some sights.
-            They had come from Assisi this morning, and went back this afternoon – they are spending
-            their Easter vacation at Assisi – and as we intend driving over there tomorrow (only 8
-            miles) we have arranged to meet and lunch together. Basil is still at the Scotch college
-            in Rome – and as rampant a young churchman as ever – we have been promoted today to a
-            very charming apartment just vacated by the Dowager Duchess of Bedford – my room is at
-            the corner, overlooking the great Umbrian plain, with the grand sweep of the Appenines –
+            again, and persuaded him and his friend, a priest, <persName ref="#Forbes_Father">Father Forbes</persName>, to have lunch with us
+            – and after a jolly lunch, and visit, they went out with <persName ref="#Berenson_Mr">Berenson</persName> to see some sights.
+            They had come from <placeName ref="#Assisi">Assisi</placeName> this morning, and went back this afternoon – they are spending
+            their Easter vacation at <placeName ref="#Assisi">Assisi</placeName> – and as we intend driving over there tomorrow (only 8
+            miles) we have arranged to meet and lunch together. <persName ref="#Fielding_Basil">Basil</persName> is still at the Scotch college
+            in <placeName ref="#Rome">Rome</placeName> – and as rampant a young churchman as ever – we have been promoted today to a
+            very charming apartment just vacated by the <persName ref="#Bedford_Dowager_Duchess_of">Dowager Duchess of Bedford</persName> – my room is at
+            the corner, overlooking the great <geogName ref="#Umbria">Umbrian plain</geogName>, with the grand sweep of the <geogName ref="#Appenines">Appenines</geogName> –
             and I seem to be hanging in mid air. </p>
             </div>
             
@@ -1577,7 +1577,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p><title>Saturday, April 20. </title></p>
             <p>Yesterday the rain poured almost continuously – only clearing for awhile in the afternoon when we took <persName ref="#Buttles_Jeanette">Nettie</persName>, who
             has not been able to do any sight seeing here, to the Sacristy of the Duomo, to see
-            Signorelli’s beautiful Madonna, Child and Saints. The light was more favorable than on
+            <persName ref="#Signorelli_Luca">Signorelli’s</persName> beautiful Madonna, Child and Saints. The light was more favorable than on
             the other day – and we sat a long time in the quiet sacristy looking at it. What
             harmonious color! Then we went to del Cambio, and then <persName ref="#Davis_Theodore">Theodore</persName> got into the little
             carriage with <persName ref="#Buttles_Jeanette">Nettie</persName> and me, and we went to the charming church of S. Pietro di
@@ -1590,21 +1590,21 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             another watching the wonderful cloud effects, and the great marshaling of light and
             shade across the plain. The carriage came back about 7 o’clock with our poor people
             chilled and tired – for the weather has changed and it is cold. We are all ready for our
-            start for Bologne tomorrow morning. </p>
+            start for <placeName ref="#Bologne">Bologne</placeName> tomorrow morning. </p>
             </div>
             
             <div xml:id="EBA18950423" type="Entry">
             <p><title>Hotel Cavour. Milan. April 23. <title><p>
             <p>We left <placeName ref="#Perugia">Perugia</placeName> Sunday morning – the weather having cleared perfectly, giving us perfect views – changed
-            cars at Tarantalo – and <pb n="69"/> got an excellent compartment to ourelves quite through to
-            Bologne – the views as we crowned the Appenines on that bright day were fine – went to
+            cars at <placeName ref="#Tarantalo">Tarantalo</placeName> – and <pb n="69"/> got an excellent compartment to ourelves quite through to
+            <placeName ref="#Bologne">Bologne</placeName> – the views as we crowned the Appenines on that bright day were fine – went to
             the Hotel Brun, where we stayed 9 years ago, and had the same apartment – grand but very
             gloomy. The next morning we went to the Belli Arti and saw some lovely Francias –
-            Timeoteo Vitete “Magdalen”, <persName ref="#Raphael">Raphael’s</persName>’s St. Cecilia – a lovely Madonna by Cima. We spent
+            Timeoteo Vitete “Magdalen”, <persName ref="#Raphael">Raphael’s</persName>’s St. Cecilia – a lovely Madonna by <persName ref="#Cima">Cima</persName>. We spent
             most of the morning there, and then went to the Museo Civica, where we spent a rather
             unsatisfactory hour. In the afternoon we drove up to S. Michele in Bosco – a rather
             interesting and handsome church of the Olivetans – the monastery now changed into an
-            Orthopedic Hospital with a beautiful view. On our way home Mr. Berenson took us to the
+            Orthopedic Hospital with a beautiful view. On our way home <persName ref="#Berenson_Mr">Mr. Berenson<persName> took us to the
             San Vitale church to show us a beautiful Francia – an altar piece – two angels with a
             lovely landscape. We hould have left <placeName ref="#Bologna">Bologna</placeName> at 6 o’clock – but on reaching the station
             heard that our train was 40 minutes late – but the waiting was very amusing – for a
@@ -1616,7 +1616,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             the time our luggage arrived and we had our supper, it was not far from one o’clock.
             This morning we started out soon after breakfast for the Poldi Pezzoli, and spent an
             hour or more – then to the Ambrosiana – and home by one o’clock tired indeed. In the
-            afternoon <persName ref="#Davis_Theodore">Theodore</persName> and <pb n="70"/> Berenson went to a private gallery to see some pictures, and then
+            afternoon <persName ref="#Davis_Theodore">Theodore</persName> and <pb n="70"/> <persName ref="#Berenson_Mr">Berenson</persName> went to a private gallery to see some pictures, and then
             Berenson, <persName ref="#Buttles_Jeanette">Nettie</persName> and I got into a little open cab, and drove to S. Lorenzo, the eldest
             church in <placeName ref="#Milan">Milan</placeName> – with remains of Roman buildings about it – and in the street near it
             are 16 Corinithian columns, which remain from an ancient colonnade. Then to S. Maria
@@ -1627,37 +1627,37 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18950426" type="Entry">
             <p><title>Milan – Friday, April 26 </title></p>
             <p>Wednesday was a gloomy day – and I was too wretched to leave the house.
-            We went to Bergamo at 4 o’clock p.m. – arriving there at 5:30 – went to the Hotel
+            We went to <placeName ref="#Bergamo">Bergamo</placeName> at 4 o’clock p.m. – arriving there at 5:30 – went to the Hotel
             d’Italia – and were decently comfortable – after we had ordered 3 big fires made in our
             rooms. We must have had all the god rooms of the principal floor – and the last entry in
             the visitors’ book was Nov. 24, ’94. My room was a big ghostly thing, which with a big
             fire became almost cheerful – and the curtains over my bed were presided over by a big
             holden goose. We all crowded into a big landau the next morning and drove to the church
             of S. Bartolomeo – where is a splendid fascinating altar picture of Lotto’s – a Madonna
-            and ten saints – Mr. Berenson ordered down all the altar decorations so that we might
+            and ten saints – <persName ref="#Berenson_Mr">Mr. Berenson<persName> ordered down all the altar decorations so that we might
             better see the picture – and we stayed in the deadly cold little church, until we were
-            petrified, looking at the delicious picture. In Berenson’s recent book on Lotto, which
+            petrified, looking at the delicious picture. In <persName ref="#Berenson_Mr">Berenson’s<persName> recent book on Lotto, which
             we have not yet seen, he reproduces the principal Lottos – so that I won’t try any
             description of those lovely pictures myself, but will better refresh <pb n="71"/> my memory in the
             future by reading his descriptions. Then we went to the S. Spirito church – and saw
-            another great altar piece by Lotto, the Madonna with four saints with angels in a glory
+            another great altar piece by <persName ref="#Lotto">Lotto</persName>, the Madonna with four saints with angels in a glory
             above. Then to the church of S. Bernardino with another altar piece of Madonna and
             saints – quite the most beautiful of all. Then we drove to the upper town and visited S.
             Maria Maggiore with the adjoining chapel of “Collogni”, most richly decorated – and the
             Cathedral, with superb tapestries, and wonderful serena and woodwork in the choir from
-            Lotto’s designs. It rained quite hard by the time we drove back to the lower town. Mr.
-            Berenson had arranged with his friend Signor Pichinelli, one of the directors of the
+            <persName ref="#Lotto">Lotto’s</persName> designs. It rained quite hard by the time we drove back to the lower town. <persName ref="#Berenson_Mr">Mr.
+            Berenson</persName> had arranged with his friend <persName ref="Pichinelli_Signor">Signor Pichinelli</persName>, one of the directors of the
             Museum, and who is the owner of many good pictures, not only to show them to us, but to
             take us to the palace of the Moroni family , and to show us two or three other places –
             so that soon after lunch we again packed ourselves into the carriage or rather into 2,
             and drove to the Maison Pichinelli, a most charming house with superb grounds in good
             order. We were received most hospitably and talked our little French and Italian as best
-            we could – and then Signor P. went with us to the Moroni palace, a magnificent house in
+            we could – and then <persName ref="Pichinelli_Signor">Signor P.</persName> went with us to the Moroni palace, a magnificent house in
             the highest part of the old town – where in a splendid loftly room we saw two of the
             most splendid Moroni’s – which have never been photographed. One of a young man in a
             lovely harmony of red – and the other a most distinguished middle aged man in black
             against a gray background – the pose, character, colour, quite perfect. While we were
-            looking at these, the Countess Loroni arrived, a charming little person, who did the
+            looking at these, the <persName ref="#Loroni_Countess">Countess Loroni</persName> arrived, a charming little person, who did the
             honours of her house most graciously – and took us from one pretty room to another,
             filled with pictures and bric-a-brac. After that we went to the Roucardi palace, <pb n="72"/> a
             gloomy magnificent house – with interesting family pictures – then to the Baglioni house
@@ -1667,12 +1667,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             exquisite quality – what treasures – and what a pleasure! The morning was beautifully
             clear and for the first time we saw the wide view from the upper town – we took a drive
             around the castle and were home in time for a hurried lunch, and off for the station,
-            where we had to say a reluctant goodbye to Berenson, who had to go to Venice to join
-            Mrs. Jack Gardiner for a day or two. We got back to <placeName ref="#Milan">Milan</placeName> at 2:30 and <persName ref="#Buttles_Jeanette">Nettie</persName>, Mary and I
+            where we had to say a reluctant goodbye to <persName ref="#Berenson_Mr">Berenson<persName>, who had to go to <placeName ref="#Venice">Venice<placeName> to join
+            <persName ref="#Gardiner_Jack_Mrs">Mrs. Jack Gardiner</persName> for a day or two. We got back to <placeName ref="#Milan">Milan</placeName> at 2:30 and <persName ref="#Buttles_Jeanette">Nettie</persName>, Mary and I
             drove from the station to the Brera, where <persName ref="#Davis_Theodore">Theodore</persName> afterwards joined us – and
             afterwards he and I went to the private house where he had seen two little Dutch
-            pictures for sale, and after having another look at them decided to telegraph Berenson
-            to buy them for him. We are all ready for our journey to Lucerne tomorrow. </p> 1894 – 1895 1
+            pictures for sale, and after having another look at them decided to telegraph <persName ref="#Berenson_Mr">Berenson<persName>
+            to buy them for him. We are all ready for our journey to <placeName ref="#Lucerne">Lucerne</placeName> tomorrow. </p> 1894 – 1895 1
             </div>
             
         </body>
